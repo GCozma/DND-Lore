@@ -1,0 +1,171 @@
+[
+  {
+    "name": "Artificer",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "class",
+    "description": "",
+    "hit_die": "1d8",
+    "proficiencies": [
+      "con",
+      "int"
+    ],
+    "srd": false
+  },
+  {
+    "name": "Barbarian",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "class",
+    "description": "",
+    "hit_die": "1d12",
+    "proficiencies": [
+      "str",
+      "con"
+    ],
+    "srd": false
+  },
+  {
+    "name": "Bard",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "class",
+    "description": "",
+    "hit_die": "1d8",
+    "proficiencies": [
+      "dex",
+      "cha"
+    ],
+    "srd": false
+  },
+  {
+    "name": "Cleric",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "class",
+    "description": "",
+    "hit_die": "1d8",
+    "proficiencies": [
+      "wis",
+      "cha"
+    ],
+    "srd": false
+  },
+  {
+    "name": "Druid",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "class",
+    "description": "",
+    "hit_die": "1d8",
+    "proficiencies": [
+      "int",
+      "wis"
+    ],
+    "srd": false
+  },
+  {
+    "name": "Fighter",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "class",
+    "description": "",
+    "hit_die": "1d10",
+    "proficiencies": [
+      "str",
+      "con"
+    ],
+    "srd": false
+  },
+  {
+    "name": "Monk",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "class",
+    "description": "",
+    "hit_die": "1d8",
+    "proficiencies": [
+      "str",
+      "dex"
+    ],
+    "srd": false
+  },
+  {
+    "name": "Paladin",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "class",
+    "description": "",
+    "hit_die": "1d10",
+    "proficiencies": [
+      "wis",
+      "cha"
+    ],
+    "srd": false
+  },
+  {
+    "name": "Ranger",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "class",
+    "description": "",
+    "hit_die": "1d10",
+    "proficiencies": [
+      "str",
+      "dex"
+    ],
+    "srd": false
+  },
+  {
+    "name": "Rogue",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "class",
+    "description": "",
+    "hit_die": "1d8",
+    "proficiencies": [
+      "dex",
+      "int"
+    ],
+    "srd": false
+  },
+  {
+    "name": "Sorcerer",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "class",
+    "description": "",
+    "hit_die": "1d6",
+    "proficiencies": [
+      "con",
+      "cha"
+    ],
+    "srd": false
+  },
+  {
+    "name": "Warlock",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "class",
+    "description": "",
+    "hit_die": "1d8",
+    "proficiencies": [
+      "wis",
+      "cha"
+    ],
+    "srd": false
+  },
+  {
+    "name": "Wizard",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "class",
+    "description": "",
+    "hit_die": "1d6",
+    "proficiencies": [
+      "int",
+      "wis"
+    ],
+    "srd": false
+  }
+]

@@ -1,0 +1,1415 @@
+[
+  {
+    "name": "Alchemist",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Artificer",
+    "srd": false
+  },
+  {
+    "name": "Armorer",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Artificer",
+    "srd": false
+  },
+  {
+    "name": "Artillerist",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Artificer",
+    "srd": false
+  },
+  {
+    "name": "Battle Smith",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Artificer",
+    "srd": false
+  },
+  {
+    "name": "Cartographer",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Artificer",
+    "srd": false
+  },
+  {
+    "name": "Reanimator",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Artificer",
+    "srd": false
+  },
+  {
+    "name": "Path of the Berserker",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Barbarian",
+    "srd": false
+  },
+  {
+    "name": "Path of the Totem Warrior",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Barbarian",
+    "srd": false
+  },
+  {
+    "name": "Path of the Battlerager",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Barbarian",
+    "srd": false
+  },
+  {
+    "name": "Path of the Ancestral Guardian",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Barbarian",
+    "srd": false
+  },
+  {
+    "name": "Path of the Storm Herald",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Barbarian",
+    "srd": false
+  },
+  {
+    "name": "Path of the Zealot",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Barbarian",
+    "srd": false
+  },
+  {
+    "name": "Path of the Beast",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Barbarian",
+    "srd": false
+  },
+  {
+    "name": "Path of Wild Magic",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Barbarian",
+    "srd": false
+  },
+  {
+    "name": "Path of the Giant",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Barbarian",
+    "srd": false
+  },
+  {
+    "name": "Path of the Wild Heart",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Barbarian",
+    "srd": false
+  },
+  {
+    "name": "Path of the World Tree",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Barbarian",
+    "srd": false
+  },
+  {
+    "name": "College of Lore",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Bard",
+    "srd": false
+  },
+  {
+    "name": "College of Valor",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Bard",
+    "srd": false
+  },
+  {
+    "name": "College of Glamour",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Bard",
+    "srd": false
+  },
+  {
+    "name": "College of Swords",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Bard",
+    "srd": false
+  },
+  {
+    "name": "College of Whispers",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Bard",
+    "srd": false
+  },
+  {
+    "name": "College of Creation",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Bard",
+    "srd": false
+  },
+  {
+    "name": "College of Eloquence",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Bard",
+    "srd": false
+  },
+  {
+    "name": "College of Spirits",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Bard",
+    "srd": false
+  },
+  {
+    "name": "College of Dance",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Bard",
+    "srd": false
+  },
+  {
+    "name": "College of the Moon",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Bard",
+    "srd": false
+  },
+  {
+    "name": "Knowledge Domain",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "Life Domain",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "Light Domain",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "Nature Domain",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "Tempest Domain",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "Trickery Domain",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "War Domain",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "Death Domain",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "Arcana Domain",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "Ambition Domain (PSA)",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "Knowledge Domain (PSA)",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "Solidarity Domain (PSA)",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "Strength Domain (PSA)",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "Zeal Domain (PSA)",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "Forge Domain",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "Grave Domain",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "Order Domain",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "Peace Domain",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "Twilight Domain",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Cleric",
+    "srd": false
+  },
+  {
+    "name": "Circle of the Land",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Druid",
+    "srd": false
+  },
+  {
+    "name": "Circle of the Moon",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Druid",
+    "srd": false
+  },
+  {
+    "name": "Circle of Dreams",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Druid",
+    "srd": false
+  },
+  {
+    "name": "Circle of the Shepherd",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Druid",
+    "srd": false
+  },
+  {
+    "name": "Circle of Spores",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Druid",
+    "srd": false
+  },
+  {
+    "name": "Circle of Stars",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Druid",
+    "srd": false
+  },
+  {
+    "name": "Circle of Wildfire",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Druid",
+    "srd": false
+  },
+  {
+    "name": "Circle of the Sea",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Druid",
+    "srd": false
+  },
+  {
+    "name": "Circle of the Stars",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Druid",
+    "srd": false
+  },
+  {
+    "name": "Battle Master",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Fighter",
+    "srd": false
+  },
+  {
+    "name": "Champion",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Fighter",
+    "srd": false
+  },
+  {
+    "name": "Eldritch Knight",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Fighter",
+    "srd": false
+  },
+  {
+    "name": "Purple Dragon Knight (Banneret)",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Fighter",
+    "srd": false
+  },
+  {
+    "name": "Arcane Archer",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Fighter",
+    "srd": false
+  },
+  {
+    "name": "Cavalier",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Fighter",
+    "srd": false
+  },
+  {
+    "name": "Samurai",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Fighter",
+    "srd": false
+  },
+  {
+    "name": "Echo Knight",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Fighter",
+    "srd": false
+  },
+  {
+    "name": "Psi Warrior",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Fighter",
+    "srd": false
+  },
+  {
+    "name": "Rune Knight",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Fighter",
+    "srd": false
+  },
+  {
+    "name": "Banneret",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Fighter",
+    "srd": false
+  },
+  {
+    "name": "Way of Shadow",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Monk",
+    "srd": false
+  },
+  {
+    "name": "Way of the Four Elements",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Monk",
+    "srd": false
+  },
+  {
+    "name": "Way of the Open Hand",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Monk",
+    "srd": false
+  },
+  {
+    "name": "Way of the Long Death",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Monk",
+    "srd": false
+  },
+  {
+    "name": "Way of the Drunken Master",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Monk",
+    "srd": false
+  },
+  {
+    "name": "Way of the Kensei",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Monk",
+    "srd": false
+  },
+  {
+    "name": "Way of the Sun Soul",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Monk",
+    "srd": false
+  },
+  {
+    "name": "Way of Mercy",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Monk",
+    "srd": false
+  },
+  {
+    "name": "Way of the Astral Self",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Monk",
+    "srd": false
+  },
+  {
+    "name": "Way of the Ascendant Dragon",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Monk",
+    "srd": false
+  },
+  {
+    "name": "Warrior of Mercy",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Monk",
+    "srd": false
+  },
+  {
+    "name": "Warrior of Shadow",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Monk",
+    "srd": false
+  },
+  {
+    "name": "Warrior of the Elements",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Monk",
+    "srd": false
+  },
+  {
+    "name": "Warrior of the Open Hand",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Monk",
+    "srd": false
+  },
+  {
+    "name": "Oath of Devotion",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Paladin",
+    "srd": false
+  },
+  {
+    "name": "Oath of the Ancients",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Paladin",
+    "srd": false
+  },
+  {
+    "name": "Oath of Vengeance",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Paladin",
+    "srd": false
+  },
+  {
+    "name": "Oathbreaker",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Paladin",
+    "srd": false
+  },
+  {
+    "name": "Oath of the Crown",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Paladin",
+    "srd": false
+  },
+  {
+    "name": "Oath of Conquest",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Paladin",
+    "srd": false
+  },
+  {
+    "name": "Oath of Redemption",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Paladin",
+    "srd": false
+  },
+  {
+    "name": "Oath of Glory",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Paladin",
+    "srd": false
+  },
+  {
+    "name": "Oath of the Watchers",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Paladin",
+    "srd": false
+  },
+  {
+    "name": "Oath of the Noble Genies",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Paladin",
+    "srd": false
+  },
+  {
+    "name": "Beast Master",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Ranger",
+    "srd": false
+  },
+  {
+    "name": "Hunter",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Ranger",
+    "srd": false
+  },
+  {
+    "name": "Gloom Stalker",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Ranger",
+    "srd": false
+  },
+  {
+    "name": "Horizon Walker",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Ranger",
+    "srd": false
+  },
+  {
+    "name": "Monster Slayer",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Ranger",
+    "srd": false
+  },
+  {
+    "name": "Fey Wanderer",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Ranger",
+    "srd": false
+  },
+  {
+    "name": "Swarmkeeper",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Ranger",
+    "srd": false
+  },
+  {
+    "name": "Drakewarden",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Ranger",
+    "srd": false
+  },
+  {
+    "name": "Winter Walker",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Ranger",
+    "srd": false
+  },
+  {
+    "name": "Hollow Warden",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Ranger",
+    "srd": false
+  },
+  {
+    "name": "Arcane Trickster",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Rogue",
+    "srd": false
+  },
+  {
+    "name": "Assassin",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Rogue",
+    "srd": false
+  },
+  {
+    "name": "Thief",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Rogue",
+    "srd": false
+  },
+  {
+    "name": "Inquisitive",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Rogue",
+    "srd": false
+  },
+  {
+    "name": "Mastermind",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Rogue",
+    "srd": false
+  },
+  {
+    "name": "Scout",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Rogue",
+    "srd": false
+  },
+  {
+    "name": "Swashbuckler",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Rogue",
+    "srd": false
+  },
+  {
+    "name": "Phantom",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Rogue",
+    "srd": false
+  },
+  {
+    "name": "Soulknife",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Rogue",
+    "srd": false
+  },
+  {
+    "name": "Scion of the Three",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Rogue",
+    "srd": false
+  },
+  {
+    "name": "Draconic Bloodline",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Sorcerer",
+    "srd": false
+  },
+  {
+    "name": "Wild Magic",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Sorcerer",
+    "srd": false
+  },
+  {
+    "name": "Pyromancer (PSK)",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Sorcerer",
+    "srd": false
+  },
+  {
+    "name": "Divine Soul",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Sorcerer",
+    "srd": false
+  },
+  {
+    "name": "Shadow Magic",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Sorcerer",
+    "srd": false
+  },
+  {
+    "name": "Storm Sorcery",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Sorcerer",
+    "srd": false
+  },
+  {
+    "name": "Aberrant Mind",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Sorcerer",
+    "srd": false
+  },
+  {
+    "name": "Clockwork Soul",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Sorcerer",
+    "srd": false
+  },
+  {
+    "name": "Lunar Sorcery",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Sorcerer",
+    "srd": false
+  },
+  {
+    "name": "Aberrant Sorcery",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Sorcerer",
+    "srd": false
+  },
+  {
+    "name": "Clockwork Sorcery",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Sorcerer",
+    "srd": false
+  },
+  {
+    "name": "Draconic Sorcery",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Sorcerer",
+    "srd": false
+  },
+  {
+    "name": "Wild Magic Sorcery",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Sorcerer",
+    "srd": false
+  },
+  {
+    "name": "Spellfire Sorcery",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Sorcerer",
+    "srd": false
+  },
+  {
+    "name": "Shadow Sorcery",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Sorcerer",
+    "srd": false
+  },
+  {
+    "name": "The Archfey",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Warlock",
+    "srd": false
+  },
+  {
+    "name": "The Fiend",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Warlock",
+    "srd": false
+  },
+  {
+    "name": "The Great Old One",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Warlock",
+    "srd": false
+  },
+  {
+    "name": "The Undying",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Warlock",
+    "srd": false
+  },
+  {
+    "name": "The Celestial",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Warlock",
+    "srd": false
+  },
+  {
+    "name": "The Hexblade",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Warlock",
+    "srd": false
+  },
+  {
+    "name": "The Fathomless",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Warlock",
+    "srd": false
+  },
+  {
+    "name": "The Genie",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Warlock",
+    "srd": false
+  },
+  {
+    "name": "The Undead",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Warlock",
+    "srd": false
+  },
+  {
+    "name": "Archfey Patron",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Warlock",
+    "srd": false
+  },
+  {
+    "name": "Celestial Patron",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Warlock",
+    "srd": false
+  },
+  {
+    "name": "Fiend Patron",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Warlock",
+    "srd": false
+  },
+  {
+    "name": "Great Old One Patron",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Warlock",
+    "srd": false
+  },
+  {
+    "name": "Undead Patron",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Warlock",
+    "srd": false
+  },
+  {
+    "name": "School of Abjuration",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Wizard",
+    "srd": false
+  },
+  {
+    "name": "School of Conjuration",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Wizard",
+    "srd": false
+  },
+  {
+    "name": "School of Divination",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Wizard",
+    "srd": false
+  },
+  {
+    "name": "School of Enchantment",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Wizard",
+    "srd": false
+  },
+  {
+    "name": "School of Evocation",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Wizard",
+    "srd": false
+  },
+  {
+    "name": "School of Illusion",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Wizard",
+    "srd": false
+  },
+  {
+    "name": "School of Necromancy",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Wizard",
+    "srd": false
+  },
+  {
+    "name": "School of Transmutation",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Wizard",
+    "srd": false
+  },
+  {
+    "name": "War Magic",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Wizard",
+    "srd": false
+  },
+  {
+    "name": "Chronurgy Magic",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Wizard",
+    "srd": false
+  },
+  {
+    "name": "Graviturgy Magic",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Wizard",
+    "srd": false
+  },
+  {
+    "name": "Bladesinging",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Wizard",
+    "srd": false
+  },
+  {
+    "name": "Order of Scribes",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Wizard",
+    "srd": false
+  },
+  {
+    "name": "Abjurer",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Wizard",
+    "srd": false
+  },
+  {
+    "name": "Diviner",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Wizard",
+    "srd": false
+  },
+  {
+    "name": "Evoker",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Wizard",
+    "srd": false
+  },
+  {
+    "name": "Illusionist",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Wizard",
+    "srd": false
+  },
+  {
+    "name": "Bladesinger",
+    "universe": "dnd",
+    "source": "5etools",
+    "content_type": "subclass",
+    "description": "",
+    "class": "Wizard",
+    "srd": false
+  }
+]

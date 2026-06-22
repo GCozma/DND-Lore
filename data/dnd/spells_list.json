@@ -1,0 +1,2258 @@
+[
+  {
+    "name": "Abi-Dalzim's Horrid Wilting",
+    "url": "/spells/2367-abi-dalzims-horrid-wilting"
+  },
+  {
+    "name": "Absorb Elements",
+    "url": "/spells/2368-absorb-elements"
+  },
+  {
+    "name": "Acid Arrow",
+    "url": "/spells/1988-acid-arrow"
+  },
+  {
+    "name": "Acid Splash",
+    "url": "/spells/2618844-acid-splash"
+  },
+  {
+    "name": "Aganazzar's Scorcher",
+    "url": "/spells/2369-aganazzars-scorcher"
+  },
+  {
+    "name": "Aid",
+    "url": "/spells/2618845-aid"
+  },
+  {
+    "name": "Air Bubble",
+    "url": "/spells/1585025-air-bubble"
+  },
+  {
+    "name": "Alarm",
+    "url": "/spells/2619222-alarm"
+  },
+  {
+    "name": "Alter Self",
+    "url": "/spells/2618846-alter-self"
+  },
+  {
+    "name": "Alustriel's Mooncloak",
+    "url": "/spells/3078516-alustriels-mooncloak"
+  },
+  {
+    "name": "Animal Friendship",
+    "url": "/spells/2618847-animal-friendship"
+  },
+  {
+    "name": "Animal Messenger",
+    "url": "/spells/2618850-animal-messenger"
+  },
+  {
+    "name": "Animal Shapes",
+    "url": "/spells/2618851-animal-shapes"
+  },
+  {
+    "name": "Animate Dead",
+    "url": "/spells/2618853-animate-dead"
+  },
+  {
+    "name": "Animate Objects",
+    "url": "/spells/2618855-animate-objects"
+  },
+  {
+    "name": "Antagonize",
+    "url": "/spells/2158656-antagonize"
+  },
+  {
+    "name": "Antilife Shell",
+    "url": "/spells/2618856-antilife-shell"
+  },
+  {
+    "name": "Antimagic Field",
+    "url": "/spells/2618860-antimagic-field"
+  },
+  {
+    "name": "Antipathy/Sympathy",
+    "url": "/spells/2618862-antipathy-sympathy"
+  },
+  {
+    "name": "Arcane Eye",
+    "url": "/spells/2618863-arcane-eye"
+  },
+  {
+    "name": "Arcane Gate",
+    "url": "/spells/2618865-arcane-gate"
+  },
+  {
+    "name": "Arcane Hand",
+    "url": "/spells/2002-arcane-hand"
+  },
+  {
+    "name": "Arcane Lock",
+    "url": "/spells/2618868-arcane-lock"
+  },
+  {
+    "name": "Arcane Vigor",
+    "url": "/spells/2618831-arcane-vigor"
+  },
+  {
+    "name": "Arcanist's Magic Aura",
+    "url": "/spells/2005-arcanists-magic-aura"
+  },
+  {
+    "name": "Armor of Agathys",
+    "url": "/spells/2618870-armor-of-agathys"
+  },
+  {
+    "name": "Arms of Hadar",
+    "url": "/spells/2618871-arms-of-hadar"
+  },
+  {
+    "name": "Ashardalon's Stride",
+    "url": "/spells/1183862-ashardalons-stride"
+  },
+  {
+    "name": "Astral Flood",
+    "url": "/spells/3269402-astral-flood"
+  },
+  {
+    "name": "Astral Projection",
+    "url": "/spells/2618878-astral-projection"
+  },
+  {
+    "name": "Augury",
+    "url": "/spells/2618882-augury"
+  },
+  {
+    "name": "Aura of Life",
+    "url": "/spells/2618884-aura-of-life"
+  },
+  {
+    "name": "Aura of Purity",
+    "url": "/spells/2618888-aura-of-purity"
+  },
+  {
+    "name": "Aura of Vitality",
+    "url": "/spells/2618891-aura-of-vitality"
+  },
+  {
+    "name": "Awaken",
+    "url": "/spells/2618897-awaken"
+  },
+  {
+    "name": "Backlash",
+    "url": "/spells/3078517-backlash"
+  },
+  {
+    "name": "Bane",
+    "url": "/spells/2618900-bane"
+  },
+  {
+    "name": "Banishing Smite",
+    "url": "/spells/2618904-banishing-smite"
+  },
+  {
+    "name": "Banishment",
+    "url": "/spells/2618906-banishment"
+  },
+  {
+    "name": "Barkskin",
+    "url": "/spells/2618907-barkskin"
+  },
+  {
+    "name": "Beacon of Hope",
+    "url": "/spells/2618911-beacon-of-hope"
+  },
+  {
+    "name": "Beast Bond",
+    "url": "/spells/2370-beast-bond"
+  },
+  {
+    "name": "Beast Sense",
+    "url": "/spells/2618914-beast-sense"
+  },
+  {
+    "name": "Befuddlement",
+    "url": "/spells/2618832-befuddlement"
+  },
+  {
+    "name": "Bestow Curse",
+    "url": "/spells/2618923-bestow-curse"
+  },
+  {
+    "name": "Bigby's Hand",
+    "url": "/spells/2618928-bigbys-hand"
+  },
+  {
+    "name": "Black Tentacles",
+    "url": "/spells/2014-black-tentacles"
+  },
+  {
+    "name": "Blade Barrier",
+    "url": "/spells/2618929-blade-barrier"
+  },
+  {
+    "name": "Blade of Disaster",
+    "url": "/spells/3078515-blade-of-disaster"
+  },
+  {
+    "name": "Blade Ward",
+    "url": "/spells/2618931-blade-ward"
+  },
+  {
+    "name": "Bless",
+    "url": "/spells/2618933-bless"
+  },
+  {
+    "name": "Blight",
+    "url": "/spells/2618934-blight"
+  },
+  {
+    "name": "Blinding Smite",
+    "url": "/spells/2618936-blinding-smite"
+  },
+  {
+    "name": "Blindness/Deafness",
+    "url": "/spells/2618938-blindness-deafness"
+  },
+  {
+    "name": "Blink",
+    "url": "/spells/2618939-blink"
+  },
+  {
+    "name": "Blur",
+    "url": "/spells/2618945-blur"
+  },
+  {
+    "name": "Bones of the Earth",
+    "url": "/spells/2371-bones-of-the-earth"
+  },
+  {
+    "name": "Booming Blade",
+    "url": "/spells/2410-booming-blade"
+  },
+  {
+    "name": "Borrowed Knowledge",
+    "url": "/spells/1239802-borrowed-knowledge"
+  },
+  {
+    "name": "Branding Smite",
+    "url": "/spells/2326-branding-smite"
+  },
+  {
+    "name": "Burning Hands",
+    "url": "/spells/2618946-burning-hands"
+  },
+  {
+    "name": "Buzzing Bee",
+    "url": "/spells/3269308-buzzing-bee"
+  },
+  {
+    "name": "Cacophonic Shield",
+    "url": "/spells/3078514-cacophonic-shield"
+  },
+  {
+    "name": "Call Lightning",
+    "url": "/spells/2618949-call-lightning"
+  },
+  {
+    "name": "Calm Emotions",
+    "url": "/spells/2618959-calm-emotions"
+  },
+  {
+    "name": "Catapult",
+    "url": "/spells/2372-catapult"
+  },
+  {
+    "name": "Catnap",
+    "url": "/spells/14754-catnap"
+  },
+  {
+    "name": "Cause Fear",
+    "url": "/spells/14758-cause-fear"
+  },
+  {
+    "name": "Ceremony",
+    "url": "/spells/14760-ceremony"
+  },
+  {
+    "name": "Chain Lightning",
+    "url": "/spells/2618960-chain-lightning"
+  },
+  {
+    "name": "Chaos Bolt",
+    "url": "/spells/14761-chaos-bolt"
+  },
+  {
+    "name": "Charm Monster",
+    "url": "/spells/2618963-charm-monster"
+  },
+  {
+    "name": "Charm Person",
+    "url": "/spells/2618964-charm-person"
+  },
+  {
+    "name": "Chill Touch",
+    "url": "/spells/2618965-chill-touch"
+  },
+  {
+    "name": "Chromatic Orb",
+    "url": "/spells/2618966-chromatic-orb"
+  },
+  {
+    "name": "Circle of Death",
+    "url": "/spells/2618969-circle-of-death"
+  },
+  {
+    "name": "Circle of Power",
+    "url": "/spells/2618970-circle-of-power"
+  },
+  {
+    "name": "Clairvoyance",
+    "url": "/spells/2618972-clairvoyance"
+  },
+  {
+    "name": "Clone",
+    "url": "/spells/2618973-clone"
+  },
+  {
+    "name": "Cloud of Daggers",
+    "url": "/spells/2618974-cloud-of-daggers"
+  },
+  {
+    "name": "Cloudkill",
+    "url": "/spells/2618976-cloudkill"
+  },
+  {
+    "name": "Color Spray",
+    "url": "/spells/2618978-color-spray"
+  },
+  {
+    "name": "Command",
+    "url": "/spells/2618985-command"
+  },
+  {
+    "name": "Commune",
+    "url": "/spells/2618987-commune"
+  },
+  {
+    "name": "Commune with Nature",
+    "url": "/spells/2618989-commune-with-nature"
+  },
+  {
+    "name": "Compelled Duel",
+    "url": "/spells/2618990-compelled-duel"
+  },
+  {
+    "name": "Comprehend Languages",
+    "url": "/spells/2618993-comprehend-languages"
+  },
+  {
+    "name": "Compulsion",
+    "url": "/spells/2619041-compulsion"
+  },
+  {
+    "name": "Cone of Cold",
+    "url": "/spells/2619042-cone-of-cold"
+  },
+  {
+    "name": "Confusion",
+    "url": "/spells/2619043-confusion"
+  },
+  {
+    "name": "Conjure Animals",
+    "url": "/spells/2619044-conjure-animals"
+  },
+  {
+    "name": "Conjure Barrage",
+    "url": "/spells/2619045-conjure-barrage"
+  },
+  {
+    "name": "Conjure Celestial",
+    "url": "/spells/2619046-conjure-celestial"
+  },
+  {
+    "name": "Conjure Constructs",
+    "url": "/spells/3078513-conjure-constructs"
+  },
+  {
+    "name": "Conjure Elemental",
+    "url": "/spells/2619047-conjure-elemental"
+  },
+  {
+    "name": "Conjure Fey",
+    "url": "/spells/2619048-conjure-fey"
+  },
+  {
+    "name": "Conjure Minor Elementals",
+    "url": "/spells/2619049-conjure-minor-elementals"
+  },
+  {
+    "name": "Conjure Volley",
+    "url": "/spells/2619050-conjure-volley"
+  },
+  {
+    "name": "Conjure Woodland Beings",
+    "url": "/spells/2619051-conjure-woodland-beings"
+  },
+  {
+    "name": "Contact Other Plane",
+    "url": "/spells/2619052-contact-other-plane"
+  },
+  {
+    "name": "Contagion",
+    "url": "/spells/2619063-contagion"
+  },
+  {
+    "name": "Contingency",
+    "url": "/spells/2619053-contingency"
+  },
+  {
+    "name": "Continual Flame",
+    "url": "/spells/2619065-continual-flame"
+  },
+  {
+    "name": "Control Flames",
+    "url": "/spells/2374-control-flames"
+  },
+  {
+    "name": "Control Water",
+    "url": "/spells/2619070-control-water"
+  },
+  {
+    "name": "Control Weather",
+    "url": "/spells/2619054-control-weather"
+  },
+  {
+    "name": "Control Winds",
+    "url": "/spells/2375-control-winds"
+  },
+  {
+    "name": "Cordon of Arrows",
+    "url": "/spells/2619055-cordon-of-arrows"
+  },
+  {
+    "name": "Counterspell",
+    "url": "/spells/2619072-counterspell"
+  },
+  {
+    "name": "Create Bonfire",
+    "url": "/spells/2373-create-bonfire"
+  },
+  {
+    "name": "Create Food and Water",
+    "url": "/spells/2619073-create-food-and-water"
+  },
+  {
+    "name": "Create Homunculus",
+    "url": "/spells/14765-create-homunculus"
+  },
+  {
+    "name": "Create Magen",
+    "url": "/spells/654073-create-magen"
+  },
+  {
+    "name": "Create or Destroy Water",
+    "url": "/spells/2619074-create-or-destroy-water"
+  },
+  {
+    "name": "Create Spelljamming Helm",
+    "url": "/spells/1585026-create-spelljamming-helm"
+  },
+  {
+    "name": "Create Undead",
+    "url": "/spells/2619076-create-undead"
+  },
+  {
+    "name": "Creation",
+    "url": "/spells/2619077-creation"
+  },
+  {
+    "name": "Crown of Madness",
+    "url": "/spells/2619056-crown-of-madness"
+  },
+  {
+    "name": "Crown of Stars",
+    "url": "/spells/14827-crown-of-stars"
+  },
+  {
+    "name": "Crusader's Mantle",
+    "url": "/spells/2619057-crusaders-mantle"
+  },
+  {
+    "name": "Cure Wounds",
+    "url": "/spells/2619079-cure-wounds"
+  },
+  {
+    "name": "Dancing Lights",
+    "url": "/spells/2619058-dancing-lights"
+  },
+  {
+    "name": "Danse Macabre",
+    "url": "/spells/14830-danse-macabre"
+  },
+  {
+    "name": "Darkness",
+    "url": "/spells/2619080-darkness"
+  },
+  {
+    "name": "Darkvision",
+    "url": "/spells/2619082-darkvision"
+  },
+  {
+    "name": "Dawn",
+    "url": "/spells/14831-dawn"
+  },
+  {
+    "name": "Daylight",
+    "url": "/spells/2619083-daylight"
+  },
+  {
+    "name": "Death Armor",
+    "url": "/spells/3078531-death-armor"
+  },
+  {
+    "name": "Death Ward",
+    "url": "/spells/2619085-death-ward"
+  },
+  {
+    "name": "Delayed Blast Fireball",
+    "url": "/spells/2619086-delayed-blast-fireball"
+  },
+  {
+    "name": "Demiplane",
+    "url": "/spells/2619088-demiplane"
+  },
+  {
+    "name": "Deryan's Helpful Homunculi",
+    "url": "/spells/3078530-deryans-helpful-homunculi"
+  },
+  {
+    "name": "Destructive Wave",
+    "url": "/spells/2619089-destructive-wave"
+  },
+  {
+    "name": "Detect Evil and Good",
+    "url": "/spells/2619090-detect-evil-and-good"
+  },
+  {
+    "name": "Detect Magic",
+    "url": "/spells/2619097-detect-magic"
+  },
+  {
+    "name": "Detect Poison and Disease",
+    "url": "/spells/2619093-detect-poison-and-disease"
+  },
+  {
+    "name": "Detect Thoughts",
+    "url": "/spells/2619099-detect-thoughts"
+  },
+  {
+    "name": "Dimension Door",
+    "url": "/spells/2619100-dimension-door"
+  },
+  {
+    "name": "Dirge",
+    "url": "/spells/3078529-dirge"
+  },
+  {
+    "name": "Disguise Self",
+    "url": "/spells/2619102-disguise-self"
+  },
+  {
+    "name": "Disintegrate",
+    "url": "/spells/2619094-disintegrate"
+  },
+  {
+    "name": "Dispel Evil and Good",
+    "url": "/spells/2619096-dispel-evil-and-good"
+  },
+  {
+    "name": "Dispel Magic",
+    "url": "/spells/2619103-dispel-magic"
+  },
+  {
+    "name": "Dissonant Whispers",
+    "url": "/spells/2619104-dissonant-whispers"
+  },
+  {
+    "name": "Distort Value",
+    "url": "/spells/188092-distort-value"
+  },
+  {
+    "name": "Divination",
+    "url": "/spells/2619140-divination"
+  },
+  {
+    "name": "Divine Favor",
+    "url": "/spells/2619142-divine-favor"
+  },
+  {
+    "name": "Divine Smite",
+    "url": "/spells/2618833-divine-smite"
+  },
+  {
+    "name": "Divine Word",
+    "url": "/spells/2619144-divine-word"
+  },
+  {
+    "name": "Dominate Beast",
+    "url": "/spells/2619146-dominate-beast"
+  },
+  {
+    "name": "Dominate Monster",
+    "url": "/spells/2619147-dominate-monster"
+  },
+  {
+    "name": "Dominate Person",
+    "url": "/spells/2619148-dominate-person"
+  },
+  {
+    "name": "Doomtide",
+    "url": "/spells/3078528-doomtide"
+  },
+  {
+    "name": "Draconic Transformation",
+    "url": "/spells/1183863-draconic-transformation"
+  },
+  {
+    "name": "Dragon's Breath",
+    "url": "/spells/2619150-dragons-breath"
+  },
+  {
+    "name": "Drawmij's Instant Summons",
+    "url": "/spells/2619154-drawmijs-instant-summons"
+  },
+  {
+    "name": "Dream",
+    "url": "/spells/2619156-dream"
+  },
+  {
+    "name": "Dream of the Blue Veil",
+    "url": "/spells/717915-dream-of-the-blue-veil"
+  },
+  {
+    "name": "Druid Grove",
+    "url": "/spells/14834-druid-grove"
+  },
+  {
+    "name": "Druidcraft",
+    "url": "/spells/2619158-druidcraft"
+  },
+  {
+    "name": "Dust Devil",
+    "url": "/spells/2376-dust-devil"
+  },
+  {
+    "name": "Earth Tremor",
+    "url": "/spells/2378-earth-tremor"
+  },
+  {
+    "name": "Earthbind",
+    "url": "/spells/2377-earthbind"
+  },
+  {
+    "name": "Earthquake",
+    "url": "/spells/2619160-earthquake"
+  },
+  {
+    "name": "Eldritch Blast",
+    "url": "/spells/2619161-eldritch-blast"
+  },
+  {
+    "name": "Elemental Bane",
+    "url": "/spells/2379-elemental-bane"
+  },
+  {
+    "name": "Elemental Weapon",
+    "url": "/spells/2619164-elemental-weapon"
+  },
+  {
+    "name": "Elementalism",
+    "url": "/spells/2618834-elementalism"
+  },
+  {
+    "name": "Elminster's Effulgent Spheres",
+    "url": "/spells/3078527-elminsters-effulgent-spheres"
+  },
+  {
+    "name": "Elminster's Elusion",
+    "url": "/spells/3078526-elminsters-elusion"
+  },
+  {
+    "name": "Encode Thoughts",
+    "url": "/spells/83532-encode-thoughts"
+  },
+  {
+    "name": "Enemies Abound",
+    "url": "/spells/14836-enemies-abound"
+  },
+  {
+    "name": "Enervation",
+    "url": "/spells/14869-enervation"
+  },
+  {
+    "name": "Enhance Ability",
+    "url": "/spells/2619165-enhance-ability"
+  },
+  {
+    "name": "Enlarge/Reduce",
+    "url": "/spells/2619170-enlarge-reduce"
+  },
+  {
+    "name": "Ensnaring Strike",
+    "url": "/spells/2619172-ensnaring-strike"
+  },
+  {
+    "name": "Entangle",
+    "url": "/spells/2619186-entangle"
+  },
+  {
+    "name": "Enthrall",
+    "url": "/spells/2619192-enthrall"
+  },
+  {
+    "name": "Erupting Earth",
+    "url": "/spells/2380-erupting-earth"
+  },
+  {
+    "name": "Etherealness",
+    "url": "/spells/2619193-etherealness"
+  },
+  {
+    "name": "Evard's Black Tentacles",
+    "url": "/spells/2619187-evards-black-tentacles"
+  },
+  {
+    "name": "Expeditious Retreat",
+    "url": "/spells/2619189-expeditious-retreat"
+  },
+  {
+    "name": "Eyebite",
+    "url": "/spells/2619191-eyebite"
+  },
+  {
+    "name": "Fabricate",
+    "url": "/spells/2618848-fabricate"
+  },
+  {
+    "name": "Faerie Fire",
+    "url": "/spells/2618858-faerie-fire"
+  },
+  {
+    "name": "Faithful Hound",
+    "url": "/spells/2092-faithful-hound"
+  },
+  {
+    "name": "False Life",
+    "url": "/spells/2618866-false-life"
+  },
+  {
+    "name": "Far Step",
+    "url": "/spells/14870-far-step"
+  },
+  {
+    "name": "Fast Friends",
+    "url": "/spells/188104-fast-friends"
+  },
+  {
+    "name": "Fear",
+    "url": "/spells/2618872-fear"
+  },
+  {
+    "name": "Feather Fall",
+    "url": "/spells/2618874-feather-fall"
+  },
+  {
+    "name": "Feeblemind",
+    "url": "/spells/2096-feeblemind"
+  },
+  {
+    "name": "Feign Death",
+    "url": "/spells/2618873-feign-death"
+  },
+  {
+    "name": "Find Familiar",
+    "url": "/spells/2618877-find-familiar"
+  },
+  {
+    "name": "Find Greater Steed",
+    "url": "/spells/14871-find-greater-steed"
+  },
+  {
+    "name": "Find Steed",
+    "url": "/spells/2618879-find-steed"
+  },
+  {
+    "name": "Find the Path",
+    "url": "/spells/2618881-find-the-path"
+  },
+  {
+    "name": "Find Traps",
+    "url": "/spells/2618883-find-traps"
+  },
+  {
+    "name": "Finger of Death",
+    "url": "/spells/2618885-finger-of-death"
+  },
+  {
+    "name": "Fire Bolt",
+    "url": "/spells/2618890-fire-bolt"
+  },
+  {
+    "name": "Fire Shield",
+    "url": "/spells/2618894-fire-shield"
+  },
+  {
+    "name": "Fire Storm",
+    "url": "/spells/2618896-fire-storm"
+  },
+  {
+    "name": "Fireball",
+    "url": "/spells/2618887-fireball"
+  },
+  {
+    "name": "Fizban's Platinum Shield",
+    "url": "/spells/1183864-fizbans-platinum-shield"
+  },
+  {
+    "name": "Flame Arrows",
+    "url": "/spells/2381-flame-arrows"
+  },
+  {
+    "name": "Flame Blade",
+    "url": "/spells/2618899-flame-blade"
+  },
+  {
+    "name": "Flame Strike",
+    "url": "/spells/2618920-flame-strike"
+  },
+  {
+    "name": "Flaming Sphere",
+    "url": "/spells/2618919-flaming-sphere"
+  },
+  {
+    "name": "Flesh to Stone",
+    "url": "/spells/2618905-flesh-to-stone"
+  },
+  {
+    "name": "Floating Disk",
+    "url": "/spells/2110-floating-disk"
+  },
+  {
+    "name": "Flock of Familiars",
+    "url": "/spells/92691-flock-of-familiars"
+  },
+  {
+    "name": "Fly",
+    "url": "/spells/2618909-fly"
+  },
+  {
+    "name": "Fog Cloud",
+    "url": "/spells/2618910-fog-cloud"
+  },
+  {
+    "name": "Forbiddance",
+    "url": "/spells/2618913-forbiddance"
+  },
+  {
+    "name": "Forcecage",
+    "url": "/spells/2618916-forcecage"
+  },
+  {
+    "name": "Foresight",
+    "url": "/spells/2618918-foresight"
+  },
+  {
+    "name": "Fount of Moonlight",
+    "url": "/spells/2618835-fount-of-moonlight"
+  },
+  {
+    "name": "Freedom of Movement",
+    "url": "/spells/2618921-freedom-of-movement"
+  },
+  {
+    "name": "Freezing Sphere",
+    "url": "/spells/2117-freezing-sphere"
+  },
+  {
+    "name": "Friends",
+    "url": "/spells/2618924-friends"
+  },
+  {
+    "name": "Frost Fingers",
+    "url": "/spells/654074-frost-fingers"
+  },
+  {
+    "name": "Frostbite",
+    "url": "/spells/2382-frostbite"
+  },
+  {
+    "name": "Galder's Speedy Courier",
+    "url": "/spells/92692-galders-speedy-courier"
+  },
+  {
+    "name": "Galder's Tower",
+    "url": "/spells/92693-galders-tower"
+  },
+  {
+    "name": "Gaseous Form",
+    "url": "/spells/2618927-gaseous-form"
+  },
+  {
+    "name": "Gate",
+    "url": "/spells/2618932-gate"
+  },
+  {
+    "name": "Gate Seal",
+    "url": "/spells/2119578-gate-seal"
+  },
+  {
+    "name": "Geas",
+    "url": "/spells/2618940-geas"
+  },
+  {
+    "name": "Gentle Repose",
+    "url": "/spells/2618942-gentle-repose"
+  },
+  {
+    "name": "Giant Insect",
+    "url": "/spells/2618944-giant-insect"
+  },
+  {
+    "name": "Gift of Gab",
+    "url": "/spells/188118-gift-of-gab"
+  },
+  {
+    "name": "Glibness",
+    "url": "/spells/2618948-glibness"
+  },
+  {
+    "name": "Globe of Invulnerability",
+    "url": "/spells/2618950-globe-of-invulnerability"
+  },
+  {
+    "name": "Glyph of Warding",
+    "url": "/spells/2618951-glyph-of-warding"
+  },
+  {
+    "name": "Goodberry",
+    "url": "/spells/2618952-goodberry"
+  },
+  {
+    "name": "Grasping Vine",
+    "url": "/spells/2618955-grasping-vine"
+  },
+  {
+    "name": "Grease",
+    "url": "/spells/2618957-grease"
+  },
+  {
+    "name": "Greater Invisibility",
+    "url": "/spells/2618958-greater-invisibility"
+  },
+  {
+    "name": "Greater Restoration",
+    "url": "/spells/2618961-greater-restoration"
+  },
+  {
+    "name": "Green-Flame Blade",
+    "url": "/spells/2411-green-flame-blade"
+  },
+  {
+    "name": "Guardian of Faith",
+    "url": "/spells/2619135-guardian-of-faith"
+  },
+  {
+    "name": "Guardian of Nature",
+    "url": "/spells/14872-guardian-of-nature"
+  },
+  {
+    "name": "Guards and Wards",
+    "url": "/spells/2618968-guards-and-wards"
+  },
+  {
+    "name": "Guidance",
+    "url": "/spells/2618971-guidance"
+  },
+  {
+    "name": "Guiding Bolt",
+    "url": "/spells/2619136-guiding-bolt"
+  },
+  {
+    "name": "Gust",
+    "url": "/spells/2383-gust"
+  },
+  {
+    "name": "Gust of Wind",
+    "url": "/spells/2619137-gust-of-wind"
+  },
+  {
+    "name": "Hail of Thorns",
+    "url": "/spells/2618975-hail-of-thorns"
+  },
+  {
+    "name": "Hallow",
+    "url": "/spells/2619138-hallow"
+  },
+  {
+    "name": "Hallucinatory Terrain",
+    "url": "/spells/2619139-hallucinatory-terrain"
+  },
+  {
+    "name": "Harm",
+    "url": "/spells/2618977-harm"
+  },
+  {
+    "name": "Haste",
+    "url": "/spells/2619141-haste"
+  },
+  {
+    "name": "Heal",
+    "url": "/spells/2618979-heal"
+  },
+  {
+    "name": "Healing Spirit",
+    "url": "/spells/14873-healing-spirit"
+  },
+  {
+    "name": "Healing Word",
+    "url": "/spells/2619143-healing-word"
+  },
+  {
+    "name": "Heat Metal",
+    "url": "/spells/2619145-heat-metal"
+  },
+  {
+    "name": "Hellish Rebuke",
+    "url": "/spells/2619149-hellish-rebuke"
+  },
+  {
+    "name": "Heroes' Feast",
+    "url": "/spells/2618983-heroes-feast"
+  },
+  {
+    "name": "Heroism",
+    "url": "/spells/2619151-heroism"
+  },
+  {
+    "name": "Hex",
+    "url": "/spells/2618988-hex"
+  },
+  {
+    "name": "Hideous Laughter",
+    "url": "/spells/2145-hideous-laughter"
+  },
+  {
+    "name": "Hold Monster",
+    "url": "/spells/2619152-hold-monster"
+  },
+  {
+    "name": "Hold Person",
+    "url": "/spells/2619153-hold-person"
+  },
+  {
+    "name": "Holy Aura",
+    "url": "/spells/2619155-holy-aura"
+  },
+  {
+    "name": "Holy Star of Mystra",
+    "url": "/spells/3078525-holy-star-of-mystra"
+  },
+  {
+    "name": "Holy Weapon",
+    "url": "/spells/14874-holy-weapon"
+  },
+  {
+    "name": "Homunculus Servant",
+    "url": "/spells/3107729-homunculus-servant"
+  },
+  {
+    "name": "Hunger of Hadar",
+    "url": "/spells/2619162-hunger-of-hadar"
+  },
+  {
+    "name": "Hunter's Mark",
+    "url": "/spells/2619166-hunters-mark"
+  },
+  {
+    "name": "Hypnotic Pattern",
+    "url": "/spells/2619168-hypnotic-pattern"
+  },
+  {
+    "name": "Ice Knife",
+    "url": "/spells/2619171-ice-knife"
+  },
+  {
+    "name": "Ice Storm",
+    "url": "/spells/2619178-ice-storm"
+  },
+  {
+    "name": "Identify",
+    "url": "/spells/2619180-identify"
+  },
+  {
+    "name": "Illusory Dragon",
+    "url": "/spells/14876-illusory-dragon"
+  },
+  {
+    "name": "Illusory Script",
+    "url": "/spells/2619173-illusory-script"
+  },
+  {
+    "name": "Immolation",
+    "url": "/spells/2385-immolation"
+  },
+  {
+    "name": "Imprisonment",
+    "url": "/spells/2619175-imprisonment"
+  },
+  {
+    "name": "Incendiary Cloud",
+    "url": "/spells/2619177-incendiary-cloud"
+  },
+  {
+    "name": "Incite Greed",
+    "url": "/spells/188121-incite-greed"
+  },
+  {
+    "name": "Infernal Calling",
+    "url": "/spells/14877-infernal-calling"
+  },
+  {
+    "name": "Infestation",
+    "url": "/spells/14878-infestation"
+  },
+  {
+    "name": "Inflict Wounds",
+    "url": "/spells/2619181-inflict-wounds"
+  },
+  {
+    "name": "Insect Plague",
+    "url": "/spells/2619183-insect-plague"
+  },
+  {
+    "name": "Insidious Rhythm",
+    "url": "/spells/3269309-insidious-rhythm"
+  },
+  {
+    "name": "Instant Summons",
+    "url": "/spells/2158-instant-summons"
+  },
+  {
+    "name": "Intellect Fortress",
+    "url": "/spells/718549-intellect-fortress"
+  },
+  {
+    "name": "Investiture of Flame",
+    "url": "/spells/2386-investiture-of-flame"
+  },
+  {
+    "name": "Investiture of Ice",
+    "url": "/spells/2387-investiture-of-ice"
+  },
+  {
+    "name": "Investiture of Stone",
+    "url": "/spells/2388-investiture-of-stone"
+  },
+  {
+    "name": "Investiture of Wind",
+    "url": "/spells/2389-investiture-of-wind"
+  },
+  {
+    "name": "Invisibility",
+    "url": "/spells/2619116-invisibility"
+  },
+  {
+    "name": "Invulnerability",
+    "url": "/spells/14879-invulnerability"
+  },
+  {
+    "name": "Jallarzi's Storm of Radiance",
+    "url": "/spells/2618836-jallarzis-storm-of-radiance"
+  },
+  {
+    "name": "Jim's Glowing Coin",
+    "url": "/spells/188126-jims-glowing-coin"
+  },
+  {
+    "name": "Jim's Magic Missile",
+    "url": "/spells/188129-jims-magic-missile"
+  },
+  {
+    "name": "Jump",
+    "url": "/spells/2618991-jump"
+  },
+  {
+    "name": "Kinetic Jaunt",
+    "url": "/spells/1239803-kinetic-jaunt"
+  },
+  {
+    "name": "Knock",
+    "url": "/spells/2618992-knock"
+  },
+  {
+    "name": "Laeral's Silver Lance",
+    "url": "/spells/3078524-laerals-silver-lance"
+  },
+  {
+    "name": "Legend Lore",
+    "url": "/spells/2619010-legend-lore"
+  },
+  {
+    "name": "Leomund’s Lamentable Belaborment",
+    "url": "/spells/3269386-leomunds-lamentable-belaborment"
+  },
+  {
+    "name": "Leomund's Secret Chest",
+    "url": "/spells/2619012-leomunds-secret-chest"
+  },
+  {
+    "name": "Leomund's Tiny Hut",
+    "url": "/spells/2619013-leomunds-tiny-hut"
+  },
+  {
+    "name": "Lesser Restoration",
+    "url": "/spells/2619016-lesser-restoration"
+  },
+  {
+    "name": "Levitate",
+    "url": "/spells/2618994-levitate"
+  },
+  {
+    "name": "Life Transference",
+    "url": "/spells/14880-life-transference"
+  },
+  {
+    "name": "Light",
+    "url": "/spells/2618996-light"
+  },
+  {
+    "name": "Lightning Arrow",
+    "url": "/spells/2618997-lightning-arrow"
+  },
+  {
+    "name": "Lightning Bolt",
+    "url": "/spells/2618999-lightning-bolt"
+  },
+  {
+    "name": "Lightning Lure",
+    "url": "/spells/2412-lightning-lure"
+  },
+  {
+    "name": "Locate Animals or Plants",
+    "url": "/spells/2619000-locate-animals-or-plants"
+  },
+  {
+    "name": "Locate Creature",
+    "url": "/spells/2619001-locate-creature"
+  },
+  {
+    "name": "Locate Object",
+    "url": "/spells/2619002-locate-object"
+  },
+  {
+    "name": "Longstrider",
+    "url": "/spells/2619004-longstrider"
+  },
+  {
+    "name": "Maddening Darkness",
+    "url": "/spells/14881-maddening-darkness"
+  },
+  {
+    "name": "Maelstrom",
+    "url": "/spells/2390-maelstrom"
+  },
+  {
+    "name": "Mage Armor",
+    "url": "/spells/2619006-mage-armor"
+  },
+  {
+    "name": "Mage Hand",
+    "url": "/spells/2619008-mage-hand"
+  },
+  {
+    "name": "Magic Circle",
+    "url": "/spells/2619018-magic-circle"
+  },
+  {
+    "name": "Magic Jar",
+    "url": "/spells/2619021-magic-jar"
+  },
+  {
+    "name": "Magic Missile",
+    "url": "/spells/2619022-magic-missile"
+  },
+  {
+    "name": "Magic Mouth",
+    "url": "/spells/2619023-magic-mouth"
+  },
+  {
+    "name": "Magic Stone",
+    "url": "/spells/2391-magic-stone"
+  },
+  {
+    "name": "Magic Weapon",
+    "url": "/spells/2619024-magic-weapon"
+  },
+  {
+    "name": "Magnificent Mansion",
+    "url": "/spells/2179-magnificent-mansion"
+  },
+  {
+    "name": "Major Image",
+    "url": "/spells/2619025-major-image"
+  },
+  {
+    "name": "Mass Cure Wounds",
+    "url": "/spells/2619026-mass-cure-wounds"
+  },
+  {
+    "name": "Mass Heal",
+    "url": "/spells/2619027-mass-heal"
+  },
+  {
+    "name": "Mass Healing Word",
+    "url": "/spells/2619028-mass-healing-word"
+  },
+  {
+    "name": "Mass Polymorph",
+    "url": "/spells/14882-mass-polymorph"
+  },
+  {
+    "name": "Mass Suggestion",
+    "url": "/spells/2619029-mass-suggestion"
+  },
+  {
+    "name": "Maximilian's Earthen Grasp",
+    "url": "/spells/2392-maximilians-earthen-grasp"
+  },
+  {
+    "name": "Maze",
+    "url": "/spells/2619030-maze"
+  },
+  {
+    "name": "Meld into Stone",
+    "url": "/spells/2619031-meld-into-stone"
+  },
+  {
+    "name": "Melf's Acid Arrow",
+    "url": "/spells/2619032-melfs-acid-arrow"
+  },
+  {
+    "name": "Melf's Minute Meteors",
+    "url": "/spells/2393-melfs-minute-meteors"
+  },
+  {
+    "name": "Mending",
+    "url": "/spells/2619033-mending"
+  },
+  {
+    "name": "Mental Prison",
+    "url": "/spells/14883-mental-prison"
+  },
+  {
+    "name": "Message",
+    "url": "/spells/2619034-message"
+  },
+  {
+    "name": "Meteor Swarm",
+    "url": "/spells/2619035-meteor-swarm"
+  },
+  {
+    "name": "Mighty Fortress",
+    "url": "/spells/14474-mighty-fortress"
+  },
+  {
+    "name": "Mind Blank",
+    "url": "/spells/2619036-mind-blank"
+  },
+  {
+    "name": "Mind Sliver",
+    "url": "/spells/2619037-mind-sliver"
+  },
+  {
+    "name": "Mind Spike",
+    "url": "/spells/2619038-mind-spike"
+  },
+  {
+    "name": "Minor Illusion",
+    "url": "/spells/2619039-minor-illusion"
+  },
+  {
+    "name": "Mirage Arcane",
+    "url": "/spells/2619040-mirage-arcane"
+  },
+  {
+    "name": "Mirror Image",
+    "url": "/spells/2619060-mirror-image"
+  },
+  {
+    "name": "Mislead",
+    "url": "/spells/2619131-mislead"
+  },
+  {
+    "name": "Misty Step",
+    "url": "/spells/2619133-misty-step"
+  },
+  {
+    "name": "Modify Memory",
+    "url": "/spells/2619109-modify-memory"
+  },
+  {
+    "name": "Mold Earth",
+    "url": "/spells/2394-mold-earth"
+  },
+  {
+    "name": "Moonbeam",
+    "url": "/spells/2619134-moonbeam"
+  },
+  {
+    "name": "Mordenkainen's Faithful Hound",
+    "url": "/spells/2619110-mordenkainens-faithful-hound"
+  },
+  {
+    "name": "Mordenkainen's Magnificent Mansion",
+    "url": "/spells/2619112-mordenkainens-magnificent-mansion"
+  },
+  {
+    "name": "Mordenkainen's Private Sanctum",
+    "url": "/spells/2619114-mordenkainens-private-sanctum"
+  },
+  {
+    "name": "Mordenkainen's Sword",
+    "url": "/spells/2619118-mordenkainens-sword"
+  },
+  {
+    "name": "Motivational Speech",
+    "url": "/spells/188142-motivational-speech"
+  },
+  {
+    "name": "Move Earth",
+    "url": "/spells/2619120-move-earth"
+  },
+  {
+    "name": "Nathair's Mischief",
+    "url": "/spells/1183865-nathairs-mischief"
+  },
+  {
+    "name": "Negative Energy Flood",
+    "url": "/spells/14519-negative-energy-flood"
+  },
+  {
+    "name": "Nondetection",
+    "url": "/spells/2619122-nondetection"
+  },
+  {
+    "name": "Nystul's Magic Aura",
+    "url": "/spells/2619124-nystuls-magic-aura"
+  },
+  {
+    "name": "Otiluke's Freezing Sphere",
+    "url": "/spells/2619126-otilukes-freezing-sphere"
+  },
+  {
+    "name": "Otiluke's Resilient Sphere",
+    "url": "/spells/2619128-otilukes-resilient-sphere"
+  },
+  {
+    "name": "Otto's Irresistible Dance",
+    "url": "/spells/2619130-ottos-irresistible-dance"
+  },
+  {
+    "name": "Pass without Trace",
+    "url": "/spells/2618849-pass-without-trace"
+  },
+  {
+    "name": "Passwall",
+    "url": "/spells/2618852-passwall"
+  },
+  {
+    "name": "Phantasmal Force",
+    "url": "/spells/2618854-phantasmal-force"
+  },
+  {
+    "name": "Phantasmal Killer",
+    "url": "/spells/2618857-phantasmal-killer"
+  },
+  {
+    "name": "Phantom Steed",
+    "url": "/spells/2618859-phantom-steed"
+  },
+  {
+    "name": "Planar Ally",
+    "url": "/spells/2618861-planar-ally"
+  },
+  {
+    "name": "Planar Binding",
+    "url": "/spells/2618864-planar-binding"
+  },
+  {
+    "name": "Plane Shift",
+    "url": "/spells/2618867-plane-shift"
+  },
+  {
+    "name": "Plant Growth",
+    "url": "/spells/2618869-plant-growth"
+  },
+  {
+    "name": "Poison Spray",
+    "url": "/spells/2618875-poison-spray"
+  },
+  {
+    "name": "Polymorph",
+    "url": "/spells/2618876-polymorph"
+  },
+  {
+    "name": "Power Word Fortify",
+    "url": "/spells/2618837-power-word-fortify"
+  },
+  {
+    "name": "Power Word Heal",
+    "url": "/spells/2618880-power-word-heal"
+  },
+  {
+    "name": "Power Word Kill",
+    "url": "/spells/2618886-power-word-kill"
+  },
+  {
+    "name": "Power Word Pain",
+    "url": "/spells/14520-power-word-pain"
+  },
+  {
+    "name": "Power Word Stun",
+    "url": "/spells/2618889-power-word-stun"
+  },
+  {
+    "name": "Prayer of Healing",
+    "url": "/spells/2618892-prayer-of-healing"
+  },
+  {
+    "name": "Prestidigitation",
+    "url": "/spells/2618893-prestidigitation"
+  },
+  {
+    "name": "Primal Savagery",
+    "url": "/spells/14558-primal-savagery"
+  },
+  {
+    "name": "Primordial Ward",
+    "url": "/spells/2395-primordial-ward"
+  },
+  {
+    "name": "Prismatic Spray",
+    "url": "/spells/2618895-prismatic-spray"
+  },
+  {
+    "name": "Prismatic Wall",
+    "url": "/spells/2618898-prismatic-wall"
+  },
+  {
+    "name": "Private Sanctum",
+    "url": "/spells/2216-private-sanctum"
+  },
+  {
+    "name": "Produce Flame",
+    "url": "/spells/2618901-produce-flame"
+  },
+  {
+    "name": "Programmed Illusion",
+    "url": "/spells/2618902-programmed-illusion"
+  },
+  {
+    "name": "Project Image",
+    "url": "/spells/2618903-project-image"
+  },
+  {
+    "name": "Protection from Energy",
+    "url": "/spells/2618908-protection-from-energy"
+  },
+  {
+    "name": "Protection from Evil and Good",
+    "url": "/spells/2618912-protection-from-evil-and-good"
+  },
+  {
+    "name": "Protection from Poison",
+    "url": "/spells/2618915-protection-from-poison"
+  },
+  {
+    "name": "Psychic Scream",
+    "url": "/spells/14592-psychic-scream"
+  },
+  {
+    "name": "Purify Food and Drink",
+    "url": "/spells/2618917-purify-food-and-drink"
+  },
+  {
+    "name": "Pyrotechnics",
+    "url": "/spells/2396-pyrotechnics"
+  },
+  {
+    "name": "Raise Dead",
+    "url": "/spells/2618922-raise-dead"
+  },
+  {
+    "name": "Rary's Telepathic Bond",
+    "url": "/spells/2618925-rarys-telepathic-bond"
+  },
+  {
+    "name": "Raulothim's Psychic Lance",
+    "url": "/spells/1183866-raulothims-psychic-lance"
+  },
+  {
+    "name": "Ray of Enfeeblement",
+    "url": "/spells/2618926-ray-of-enfeeblement"
+  },
+  {
+    "name": "Ray of Frost",
+    "url": "/spells/2618930-ray-of-frost"
+  },
+  {
+    "name": "Ray of Sickness",
+    "url": "/spells/2618935-ray-of-sickness"
+  },
+  {
+    "name": "Regenerate",
+    "url": "/spells/2618937-regenerate"
+  },
+  {
+    "name": "Reincarnate",
+    "url": "/spells/2618941-reincarnate"
+  },
+  {
+    "name": "Remove Curse",
+    "url": "/spells/2618943-remove-curse"
+  },
+  {
+    "name": "Resilient Sphere",
+    "url": "/spells/2230-resilient-sphere"
+  },
+  {
+    "name": "Resistance",
+    "url": "/spells/2618947-resistance"
+  },
+  {
+    "name": "Resurrection",
+    "url": "/spells/2618953-resurrection"
+  },
+  {
+    "name": "Reverse Gravity",
+    "url": "/spells/2618954-reverse-gravity"
+  },
+  {
+    "name": "Revivify",
+    "url": "/spells/2618956-revivify"
+  },
+  {
+    "name": "Rime's Binding Ice",
+    "url": "/spells/1183867-rimes-binding-ice"
+  },
+  {
+    "name": "Rope Trick",
+    "url": "/spells/2618962-rope-trick"
+  },
+  {
+    "name": "Sacred Flame",
+    "url": "/spells/2618967-sacred-flame"
+  },
+  {
+    "name": "Sanctuary",
+    "url": "/spells/2619003-sanctuary"
+  },
+  {
+    "name": "Scatter",
+    "url": "/spells/14593-scatter"
+  },
+  {
+    "name": "Scorching Ray",
+    "url": "/spells/2619005-scorching-ray"
+  },
+  {
+    "name": "Scrying",
+    "url": "/spells/2619007-scrying"
+  },
+  {
+    "name": "Searing Orb",
+    "url": "/spells/3294072-searing-orb"
+  },
+  {
+    "name": "Searing Smite",
+    "url": "/spells/2619009-searing-smite"
+  },
+  {
+    "name": "Secret Chest",
+    "url": "/spells/2240-secret-chest"
+  },
+  {
+    "name": "See Invisibility",
+    "url": "/spells/2619011-see-invisibility"
+  },
+  {
+    "name": "Seeming",
+    "url": "/spells/2619014-seeming"
+  },
+  {
+    "name": "Sending",
+    "url": "/spells/2619015-sending"
+  },
+  {
+    "name": "Sequester",
+    "url": "/spells/2618980-sequester"
+  },
+  {
+    "name": "Shadow Blade",
+    "url": "/spells/14595-shadow-blade"
+  },
+  {
+    "name": "Shadow of Moil",
+    "url": "/spells/14596-shadow-of-moil"
+  },
+  {
+    "name": "Shape Water",
+    "url": "/spells/2397-shape-water"
+  },
+  {
+    "name": "Shapechange",
+    "url": "/spells/2618982-shapechange"
+  },
+  {
+    "name": "Shatter",
+    "url": "/spells/2619017-shatter"
+  },
+  {
+    "name": "Shield",
+    "url": "/spells/2619019-shield"
+  },
+  {
+    "name": "Shield of Faith",
+    "url": "/spells/2619020-shield-of-faith"
+  },
+  {
+    "name": "Shillelagh",
+    "url": "/spells/2618984-shillelagh"
+  },
+  {
+    "name": "Shining Smite",
+    "url": "/spells/2618838-shining-smite"
+  },
+  {
+    "name": "Shocking Grasp",
+    "url": "/spells/2618986-shocking-grasp"
+  },
+  {
+    "name": "Sickening Radiance",
+    "url": "/spells/14597-sickening-radiance"
+  },
+  {
+    "name": "Silence",
+    "url": "/spells/2619061-silence"
+  },
+  {
+    "name": "Silent Image",
+    "url": "/spells/2619062-silent-image"
+  },
+  {
+    "name": "Silvery Barbs",
+    "url": "/spells/1239804-silvery-barbs"
+  },
+  {
+    "name": "Simbul's Synostodweomer",
+    "url": "/spells/3078523-simbuls-synostodweomer"
+  },
+  {
+    "name": "Simulacrum",
+    "url": "/spells/2618995-simulacrum"
+  },
+  {
+    "name": "Skill Empowerment",
+    "url": "/spells/14599-skill-empowerment"
+  },
+  {
+    "name": "Skywrite",
+    "url": "/spells/2398-skywrite"
+  },
+  {
+    "name": "Sleep",
+    "url": "/spells/2619064-sleep"
+  },
+  {
+    "name": "Sleet Storm",
+    "url": "/spells/2618998-sleet-storm"
+  },
+  {
+    "name": "Slow",
+    "url": "/spells/2619066-slow"
+  },
+  {
+    "name": "Snare",
+    "url": "/spells/14600-snare"
+  },
+  {
+    "name": "Snilloc's Snowball Swarm",
+    "url": "/spells/2399-snillocs-snowball-swarm"
+  },
+  {
+    "name": "Songal's Elemental Suffusion",
+    "url": "/spells/3078522-songals-elemental-suffusion"
+  },
+  {
+    "name": "Sorcerous Burst",
+    "url": "/spells/2618839-sorcerous-burst"
+  },
+  {
+    "name": "Soul Cage",
+    "url": "/spells/14601-soul-cage"
+  },
+  {
+    "name": "Spare the Dying",
+    "url": "/spells/2619067-spare-the-dying"
+  },
+  {
+    "name": "Speak with Animals",
+    "url": "/spells/2619059-speak-with-animals"
+  },
+  {
+    "name": "Speak with Dead",
+    "url": "/spells/2619068-speak-with-dead"
+  },
+  {
+    "name": "Speak with Plants",
+    "url": "/spells/2619069-speak-with-plants"
+  },
+  {
+    "name": "Spellfire Flare",
+    "url": "/spells/3078521-spellfire-flare"
+  },
+  {
+    "name": "Spellfire Storm",
+    "url": "/spells/3078520-spellfire-storm"
+  },
+  {
+    "name": "Spider Climb",
+    "url": "/spells/2619071-spider-climb"
+  },
+  {
+    "name": "Spike Growth",
+    "url": "/spells/2619075-spike-growth"
+  },
+  {
+    "name": "Spirit Guardians",
+    "url": "/spells/2619078-spirit-guardians"
+  },
+  {
+    "name": "Spirit of Death",
+    "url": "/spells/2158657-spirit-of-death"
+  },
+  {
+    "name": "Spirit Shroud",
+    "url": "/spells/718581-spirit-shroud"
+  },
+  {
+    "name": "Spiritual Weapon",
+    "url": "/spells/2619081-spiritual-weapon"
+  },
+  {
+    "name": "Spray of Cards",
+    "url": "/spells/2158658-spray-of-cards"
+  },
+  {
+    "name": "Staggering Smite",
+    "url": "/spells/2619084-staggering-smite"
+  },
+  {
+    "name": "Starry Wisp",
+    "url": "/spells/2618840-starry-wisp"
+  },
+  {
+    "name": "Steel Wind Strike",
+    "url": "/spells/2619087-steel-wind-strike"
+  },
+  {
+    "name": "Sticks to Snakes",
+    "url": "/spells/3269390-sticks-to-snakes"
+  },
+  {
+    "name": "Stinking Cloud",
+    "url": "/spells/2619091-stinking-cloud"
+  },
+  {
+    "name": "Stone Shape",
+    "url": "/spells/2619092-stone-shape"
+  },
+  {
+    "name": "Stoneskin",
+    "url": "/spells/2619095-stoneskin"
+  },
+  {
+    "name": "Storm of Vengeance",
+    "url": "/spells/2619098-storm-of-vengeance"
+  },
+  {
+    "name": "Storm Sphere",
+    "url": "/spells/2400-storm-sphere"
+  },
+  {
+    "name": "Suggestion",
+    "url": "/spells/2619101-suggestion"
+  },
+  {
+    "name": "Summon Aberration",
+    "url": "/spells/2619105-summon-aberration"
+  },
+  {
+    "name": "Summon Beast",
+    "url": "/spells/2619106-summon-beast"
+  },
+  {
+    "name": "Summon Celestial",
+    "url": "/spells/2619108-summon-celestial"
+  },
+  {
+    "name": "Summon Construct",
+    "url": "/spells/2619111-summon-construct"
+  },
+  {
+    "name": "Summon Draconic Spirit",
+    "url": "/spells/1183868-summon-draconic-spirit"
+  },
+  {
+    "name": "Summon Dragon",
+    "url": "/spells/2618843-summon-dragon"
+  },
+  {
+    "name": "Summon Elemental",
+    "url": "/spells/2619113-summon-elemental"
+  },
+  {
+    "name": "Summon Fey",
+    "url": "/spells/2619115-summon-fey"
+  },
+  {
+    "name": "Summon Fiend",
+    "url": "/spells/2619117-summon-fiend"
+  },
+  {
+    "name": "Summon Greater Demon",
+    "url": "/spells/14603-summon-greater-demon"
+  },
+  {
+    "name": "Summon Lesser Demons",
+    "url": "/spells/14604-summon-lesser-demons"
+  },
+  {
+    "name": "Summon Shadowspawn",
+    "url": "/spells/719948-summon-shadowspawn"
+  },
+  {
+    "name": "Summon Undead",
+    "url": "/spells/2619119-summon-undead"
+  },
+  {
+    "name": "Sunbeam",
+    "url": "/spells/2619121-sunbeam"
+  },
+  {
+    "name": "Sunburst",
+    "url": "/spells/2619123-sunburst"
+  },
+  {
+    "name": "Swift Quiver",
+    "url": "/spells/2619125-swift-quiver"
+  },
+  {
+    "name": "Sword Burst",
+    "url": "/spells/2413-sword-burst"
+  },
+  {
+    "name": "Syluné’s Viper",
+    "url": "/spells/3078519-sylunes-viper"
+  },
+  {
+    "name": "Symbol",
+    "url": "/spells/2619127-symbol"
+  },
+  {
+    "name": "Synaptic Static",
+    "url": "/spells/2619129-synaptic-static"
+  },
+  {
+    "name": "Tasha's Bubbling Cauldron",
+    "url": "/spells/2618841-tashas-bubbling-cauldron"
+  },
+  {
+    "name": "Tasha's Caustic Brew",
+    "url": "/spells/719953-tashas-caustic-brew"
+  },
+  {
+    "name": "Tasha's Hideous Laughter",
+    "url": "/spells/2619132-tashas-hideous-laughter"
+  },
+  {
+    "name": "Tasha's Mind Whip",
+    "url": "/spells/719959-tashas-mind-whip"
+  },
+  {
+    "name": "Tasha's Otherworldly Guise",
+    "url": "/spells/719961-tashas-otherworldly-guise"
+  },
+  {
+    "name": "Telekinesis",
+    "url": "/spells/2619157-telekinesis"
+  },
+  {
+    "name": "Telepathic Bond",
+    "url": "/spells/2274-telepathic-bond"
+  },
+  {
+    "name": "Telepathy",
+    "url": "/spells/2619159-telepathy"
+  },
+  {
+    "name": "Teleport",
+    "url": "/spells/2619163-teleport"
+  },
+  {
+    "name": "Teleportation Circle",
+    "url": "/spells/2619167-teleportation-circle"
+  },
+  {
+    "name": "Temple of the Gods",
+    "url": "/spells/14606-temple-of-the-gods"
+  },
+  {
+    "name": "Tenser's Floating Disk",
+    "url": "/spells/2619169-tensers-floating-disk"
+  },
+  {
+    "name": "Tenser's Transformation",
+    "url": "/spells/14612-tensers-transformation"
+  },
+  {
+    "name": "Thaumaturgy",
+    "url": "/spells/2619174-thaumaturgy"
+  },
+  {
+    "name": "Thorn Whip",
+    "url": "/spells/2619176-thorn-whip"
+  },
+  {
+    "name": "Thunder Step",
+    "url": "/spells/14613-thunder-step"
+  },
+  {
+    "name": "Thunderclap",
+    "url": "/spells/2619179-thunderclap"
+  },
+  {
+    "name": "Thunderous Smite",
+    "url": "/spells/2619182-thunderous-smite"
+  },
+  {
+    "name": "Thunderwave",
+    "url": "/spells/2619184-thunderwave"
+  },
+  {
+    "name": "Tidal Wave",
+    "url": "/spells/2402-tidal-wave"
+  },
+  {
+    "name": "Time Stop",
+    "url": "/spells/2619185-time-stop"
+  },
+  {
+    "name": "Tiny Hut",
+    "url": "/spells/2280-tiny-hut"
+  },
+  {
+    "name": "Tiny Servant",
+    "url": "/spells/14614-tiny-servant"
+  },
+  {
+    "name": "Toll the Dead",
+    "url": "/spells/2619188-toll-the-dead"
+  },
+  {
+    "name": "Tongues",
+    "url": "/spells/2619190-tongues"
+  },
+  {
+    "name": "Tortoise Shell",
+    "url": "/spells/3294076-tortoise-shell"
+  },
+  {
+    "name": "Transmute Rock",
+    "url": "/spells/2403-transmute-rock"
+  },
+  {
+    "name": "Transport via Plants",
+    "url": "/spells/2619196-transport-via-plants"
+  },
+  {
+    "name": "Tree Stride",
+    "url": "/spells/2619197-tree-stride"
+  },
+  {
+    "name": "True Polymorph",
+    "url": "/spells/2619198-true-polymorph"
+  },
+  {
+    "name": "True Resurrection",
+    "url": "/spells/2619199-true-resurrection"
+  },
+  {
+    "name": "True Seeing",
+    "url": "/spells/2619201-true-seeing"
+  },
+  {
+    "name": "True Strike",
+    "url": "/spells/2619204-true-strike"
+  },
+  {
+    "name": "Tsunami",
+    "url": "/spells/2619206-tsunami"
+  },
+  {
+    "name": "Unseen Servant",
+    "url": "/spells/2619209-unseen-servant"
+  },
+  {
+    "name": "Vampiric Touch",
+    "url": "/spells/2619214-vampiric-touch"
+  },
+  {
+    "name": "Vicious Mockery",
+    "url": "/spells/2619216-vicious-mockery"
+  },
+  {
+    "name": "Vitriolic Sphere",
+    "url": "/spells/2619219-vitriolic-sphere"
+  },
+  {
+    "name": "Void Star",
+    "url": "/spells/3294078-void-star"
+  },
+  {
+    "name": "Vortex Warp",
+    "url": "/spells/1239805-vortex-warp"
+  },
+  {
+    "name": "Wall of Fire",
+    "url": "/spells/2619107-wall-of-fire"
+  },
+  {
+    "name": "Wall of Force",
+    "url": "/spells/2619194-wall-of-force"
+  },
+  {
+    "name": "Wall of Ice",
+    "url": "/spells/2619195-wall-of-ice"
+  },
+  {
+    "name": "Wall of Light",
+    "url": "/spells/14616-wall-of-light"
+  },
+  {
+    "name": "Wall of Sand",
+    "url": "/spells/2405-wall-of-sand"
+  },
+  {
+    "name": "Wall of Stone",
+    "url": "/spells/2619200-wall-of-stone"
+  },
+  {
+    "name": "Wall of Thorns",
+    "url": "/spells/2619202-wall-of-thorns"
+  },
+  {
+    "name": "Wall of Water",
+    "url": "/spells/2406-wall-of-water"
+  },
+  {
+    "name": "Wardaway",
+    "url": "/spells/3078518-wardaway"
+  },
+  {
+    "name": "Warding Bond",
+    "url": "/spells/2619203-warding-bond"
+  },
+  {
+    "name": "Warding Wind",
+    "url": "/spells/2407-warding-wind"
+  },
+  {
+    "name": "Warp Sense",
+    "url": "/spells/2119579-warp-sense"
+  },
+  {
+    "name": "Water Breathing",
+    "url": "/spells/2619205-water-breathing"
+  },
+  {
+    "name": "Water Walk",
+    "url": "/spells/2619207-water-walk"
+  },
+  {
+    "name": "Watery Sphere",
+    "url": "/spells/2408-watery-sphere"
+  },
+  {
+    "name": "Web",
+    "url": "/spells/2619208-web"
+  },
+  {
+    "name": "Weird",
+    "url": "/spells/2619210-weird"
+  },
+  {
+    "name": "Whirlwind",
+    "url": "/spells/2409-whirlwind"
+  },
+  {
+    "name": "Wind Walk",
+    "url": "/spells/2619211-wind-walk"
+  },
+  {
+    "name": "Wind Wall",
+    "url": "/spells/2619212-wind-wall"
+  },
+  {
+    "name": "Wish",
+    "url": "/spells/2619213-wish"
+  },
+  {
+    "name": "Witch Bolt",
+    "url": "/spells/2619215-witch-bolt"
+  },
+  {
+    "name": "Wither and Bloom",
+    "url": "/spells/1239806-wither-and-bloom"
+  },
+  {
+    "name": "Word of Radiance",
+    "url": "/spells/2619217-word-of-radiance"
+  },
+  {
+    "name": "Word of Recall",
+    "url": "/spells/2619218-word-of-recall"
+  },
+  {
+    "name": "Wrath of Nature",
+    "url": "/spells/14619-wrath-of-nature"
+  },
+  {
+    "name": "Wrathful Smite",
+    "url": "/spells/2619220-wrathful-smite"
+  },
+  {
+    "name": "Yolande's Regal Presence",
+    "url": "/spells/2618842-yolandes-regal-presence"
+  },
+  {
+    "name": "Zephyr Strike",
+    "url": "/spells/14622-zephyr-strike"
+  },
+  {
+    "name": "Zone of Truth",
+    "url": "/spells/2619221-zone-of-truth"
+  }
+]
