@@ -13,7 +13,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Jeweled dagger, point down"
+    "symbol": "Jeweled dagger, point down",
+    "divine_rank": "The Mordinsamman",
+    "province": "Greed",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Aegir",
@@ -29,7 +34,12 @@
     "title": "God of the sea and storms",
     "srd": false,
     "worshipers": "",
-    "symbol": "Rough ocean waves"
+    "symbol": "Rough ocean waves",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Aerdrie Faenya",
@@ -47,7 +57,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Bird silhouetted against a cloud"
+    "symbol": "Bird silhouetted against a cloud",
+    "divine_rank": "The Seldarine",
+    "province": "Air, rain, fertility, birth",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Akadi",
@@ -63,7 +78,12 @@
     "title": "Goddess of air",
     "srd": false,
     "worshipers": "",
-    "symbol": "Cloud"
+    "symbol": "Cloud",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Alathrien Druanna",
@@ -80,7 +100,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "A quill or glyph"
+    "symbol": "A quill or glyph",
+    "divine_rank": "The Seldarine",
+    "province": "Runes, writing, spellcasting",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Alobal Lorfiril",
@@ -97,7 +122,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Wine glass"
+    "symbol": "Wine glass",
+    "divine_rank": "The Seldarine",
+    "province": "Revelry, mirth",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Amaunator",
@@ -114,7 +144,12 @@
     "title": "God of the sun",
     "srd": false,
     "worshipers": "",
-    "symbol": "Golden sun"
+    "symbol": "Golden sun",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Angharradh",
@@ -133,7 +168,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Three interlocking circles"
+    "symbol": "Three interlocking circles",
+    "divine_rank": "The Seldarine",
+    "province": "Wisdom, growth, protection",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Anubis",
@@ -151,7 +191,12 @@
     "title": "God of judgment and death",
     "srd": true,
     "worshipers": "",
-    "symbol": "Black jackal"
+    "symbol": "Black jackal",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Apep",
@@ -167,7 +212,12 @@
     "title": "God of evil, fire, and serpents",
     "srd": true,
     "worshipers": "",
-    "symbol": "Flaming snake"
+    "symbol": "Flaming snake",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Aphrodite",
@@ -183,7 +233,12 @@
     "title": "Goddess of love and beauty",
     "srd": true,
     "worshipers": "",
-    "symbol": "Sea shell"
+    "symbol": "Sea shell",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Apollo",
@@ -201,7 +256,12 @@
     "title": "God of light, music, and healing",
     "srd": true,
     "worshipers": "",
-    "symbol": "Lyre"
+    "symbol": "Lyre",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Araleth Letheranil",
@@ -218,7 +278,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Shaft of light"
+    "symbol": "Shaft of light",
+    "divine_rank": "The Seldarine",
+    "province": "Light, stars, revelations",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Arawai",
@@ -235,7 +300,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Sheaf of wheat tied with green ribbon {@i or} bronze dragon"
+    "symbol": "Sheaf of wheat tied with green ribbon {@i or} bronze dragon",
+    "divine_rank": "The Sovereign Host",
+    "province": "Life, love",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "Arawn",
@@ -252,7 +322,12 @@
     "title": "God of life and death",
     "srd": true,
     "worshipers": "",
-    "symbol": "Black star on gray background"
+    "symbol": "Black star on gray background",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Ares",
@@ -268,7 +343,12 @@
     "title": "God of war and strife",
     "srd": true,
     "worshipers": "",
-    "symbol": "Spear"
+    "symbol": "Spear",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Arms of the Betrayers",
@@ -285,7 +365,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Blade thrust downward through an eight-eyed skull"
+    "symbol": "Blade thrust downward through an eight-eyed skull",
+    "divine_rank": "Lesser Idols",
+    "province": "The Fiend, the Hexblade",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Artemis",
@@ -302,7 +387,12 @@
     "title": "Goddess of hunting and childbirth",
     "srd": true,
     "worshipers": "",
-    "symbol": "Bow and arrow on lunar disk"
+    "symbol": "Bow and arrow on lunar disk",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Arvoreen",
@@ -318,7 +408,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Crossed short swords"
+    "symbol": "Crossed short swords",
+    "divine_rank": "Deity",
+    "province": "Vigilance, war",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Asmodeus",
@@ -336,7 +431,12 @@
     "title": "God of indulgence",
     "srd": false,
     "worshipers": "",
-    "symbol": "Three inverted triangles arranged in a long triangle"
+    "symbol": "Three inverted triangles arranged in a long triangle",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Athena",
@@ -354,7 +454,12 @@
     "title": "Goddess of wisdom and civilization",
     "srd": true,
     "worshipers": "",
-    "symbol": "Owl"
+    "symbol": "Owl",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Athreos",
@@ -371,7 +476,12 @@
     "title": "God of Passage",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MOT"
   },
   {
     "name": "Aureon",
@@ -388,7 +498,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Open tome {@i or} blue dragon"
+    "symbol": "Open tome {@i or} blue dragon",
+    "divine_rank": "The Sovereign Host",
+    "province": "Knowledge, law",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "Auril",
@@ -405,7 +520,12 @@
     "title": "Goddess of winter",
     "srd": false,
     "worshipers": "",
-    "symbol": "Six-pointed snowflake"
+    "symbol": "Six-pointed snowflake",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Avandra",
@@ -422,7 +542,12 @@
     "title": "the Change Bringer",
     "srd": false,
     "worshipers": "",
-    "symbol": "Woman's profile embossed on a gold coin or pendant"
+    "symbol": "Woman's profile embossed on a gold coin or pendant",
+    "divine_rank": "Prime Deities",
+    "province": "Change, freedom, luck",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Azuth",
@@ -439,7 +564,12 @@
     "title": "God of wizardry",
     "srd": false,
     "worshipers": "",
-    "symbol": "Left hand pointing upward, outlined in fire"
+    "symbol": "Left hand pointing upward, outlined in fire",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Baervan Wildwanderer",
@@ -455,7 +585,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Face of a raccoon"
+    "symbol": "Face of a raccoon",
+    "divine_rank": "Deity",
+    "province": "Woodlands",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Bahamut",
@@ -473,7 +608,12 @@
     "title": "the Platinum Dragon",
     "srd": false,
     "worshipers": "",
-    "symbol": "Silver dragon's head in profile"
+    "symbol": "Silver dragon's head in profile",
+    "divine_rank": "Prime Deities",
+    "province": "Honor, justice",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Bahgtru",
@@ -487,7 +627,12 @@
     "title": "the Leg Breaker",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "VGM"
   },
   {
     "name": "Balder",
@@ -504,7 +649,12 @@
     "title": "God of beauty and poetry",
     "srd": false,
     "worshipers": "",
-    "symbol": "Gem-encrusted silver chalice"
+    "symbol": "Gem-encrusted silver chalice",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Balinor",
@@ -521,7 +671,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Pair of antlers {@i or} green dragon"
+    "symbol": "Pair of antlers {@i or} green dragon",
+    "divine_rank": "The Sovereign Host",
+    "province": "Beasts, the hunt",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "Bane",
@@ -538,7 +693,12 @@
     "title": "God of tyranny",
     "srd": false,
     "worshipers": "",
-    "symbol": "Upright black hand, thumb and fingers together"
+    "symbol": "Upright black hand, thumb and fingers together",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Baravar Cloakshadow",
@@ -555,7 +715,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Dagger against a hooded cloak"
+    "symbol": "Dagger against a hooded cloak",
+    "divine_rank": "Deity",
+    "province": "Illusion, deception",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Bast",
@@ -571,7 +736,12 @@
     "title": "Goddess of cats and vengeance",
     "srd": true,
     "worshipers": "",
-    "symbol": "Cat"
+    "symbol": "Cat",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Belenus",
@@ -587,7 +757,12 @@
     "title": "God of sun, light, and warmth",
     "srd": true,
     "worshipers": "",
-    "symbol": "Solar disk and standing stones"
+    "symbol": "Solar disk and standing stones",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Beory",
@@ -603,7 +778,12 @@
     "title": "Goddess of nature",
     "srd": false,
     "worshipers": "",
-    "symbol": "Green disk"
+    "symbol": "Green disk",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Berei",
@@ -617,7 +797,12 @@
     "title": "of the Hearth",
     "srd": false,
     "worshipers": "Families, farmers",
-    "symbol": "Sheaf of wheat stalks"
+    "symbol": "Sheaf of wheat stalks",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "XDMG"
   },
   {
     "name": "Berronar Truesilver",
@@ -635,7 +820,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Intertwined silver rings"
+    "symbol": "Intertwined silver rings",
+    "divine_rank": "The Mordinsamman",
+    "province": "Hearth, home, truth",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Bes",
@@ -651,7 +841,12 @@
     "title": "God of luck and music",
     "srd": true,
     "worshipers": "",
-    "symbol": "Image of the misshapen deity"
+    "symbol": "Image of the misshapen deity",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Beshaba",
@@ -667,7 +862,12 @@
     "title": "Goddess of misfortune",
     "srd": false,
     "worshipers": "",
-    "symbol": "Black antlers"
+    "symbol": "Black antlers",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Bhaal",
@@ -683,7 +883,12 @@
     "title": "God of murder",
     "srd": false,
     "worshipers": "",
-    "symbol": "Skull surrounded by ring of bloody droplets"
+    "symbol": "Skull surrounded by ring of bloody droplets",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Bleredd",
@@ -700,7 +905,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Iron mule"
+    "symbol": "Iron mule",
+    "divine_rank": "Deity",
+    "province": "Labor, craft",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Blibdoolpoolp",
@@ -716,7 +926,12 @@
     "title": "Kuo-toa goddess",
     "srd": false,
     "worshipers": "",
-    "symbol": "Lobster head or black pearl"
+    "symbol": "Lobster head or black pearl",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Boccob",
@@ -733,7 +948,12 @@
     "title": "God of magic",
     "srd": false,
     "worshipers": "",
-    "symbol": "Eye within a pentagram"
+    "symbol": "Eye within a pentagram",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Boldrei",
@@ -751,7 +971,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Fire in a stone hearth {@i or} copper dragon"
+    "symbol": "Fire in a stone hearth {@i or} copper dragon",
+    "divine_rank": "The Sovereign Host",
+    "province": "Community, home",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "Branchala",
@@ -765,7 +990,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Bard's harp"
+    "symbol": "Bard's harp",
+    "divine_rank": "Good",
+    "province": "Music",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Brandobaris",
@@ -781,7 +1011,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Halfling footprint"
+    "symbol": "Halfling footprint",
+    "divine_rank": "Deity",
+    "province": "Adventure, thievery",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Brigantia",
@@ -797,7 +1032,12 @@
     "title": "Goddess of rivers and livestock",
     "srd": true,
     "worshipers": "",
-    "symbol": "Footbridge"
+    "symbol": "Footbridge",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Callarduran Smoothhands",
@@ -814,7 +1054,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Golden signet ring with six pointed star"
+    "symbol": "Golden signet ring with six pointed star",
+    "divine_rank": "Deity",
+    "province": "Mining, stone carving",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Celestian",
@@ -831,7 +1076,12 @@
     "title": "God of stars and wanderers",
     "srd": false,
     "worshipers": "",
-    "symbol": "Arc of seven stars inside a circle"
+    "symbol": "Arc of seven stars inside a circle",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Ceratos",
@@ -848,7 +1098,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Three mismatched eyes surrounded by teeth"
+    "symbol": "Three mismatched eyes surrounded by teeth",
+    "divine_rank": "Lesser Idols",
+    "province": "The Great Old One",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Charmalaine",
@@ -864,7 +1119,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Burning boot print"
+    "symbol": "Burning boot print",
+    "divine_rank": "Deity",
+    "province": "Keen senses, luck",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Chauntea",
@@ -880,7 +1140,12 @@
     "title": "Goddess of agriculture",
     "srd": false,
     "worshipers": "",
-    "symbol": "Sheaf of grain or a blooming rose over grain"
+    "symbol": "Sheaf of grain or a blooming rose over grain",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Chemosh",
@@ -894,7 +1159,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Yellow skull"
+    "symbol": "Yellow skull",
+    "divine_rank": "Evil",
+    "province": "Undead",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Chislev",
@@ -908,7 +1178,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Feather"
+    "symbol": "Feather",
+    "divine_rank": "Neutral",
+    "province": "Nature",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Clangeddin Silverbeard",
@@ -924,7 +1199,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Crossed silver battleaxes"
+    "symbol": "Crossed silver battleaxes",
+    "divine_rank": "The Mordinsamman",
+    "province": "War, strategy",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Corellon",
@@ -941,7 +1221,12 @@
     "title": "the Arch Heart",
     "srd": false,
     "worshipers": "",
-    "symbol": "Two crescent moons facing each other atop a four-pointed star"
+    "symbol": "Two crescent moons facing each other atop a four-pointed star",
+    "divine_rank": "Prime Deities",
+    "province": "Art, beauty, elves",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Corellon Larethian",
@@ -960,7 +1245,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Quarter moon or starburst"
+    "symbol": "Quarter moon or starburst",
+    "divine_rank": "The Seldarine",
+    "province": "Primary god of elves",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Cults of the Dragon Below",
@@ -976,7 +1266,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Varies"
+    "symbol": "Varies",
+    "divine_rank": "Other Faiths of Eberron",
+    "province": "Madness",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "Cuthbert",
@@ -990,7 +1285,12 @@
     "title": "of the Cudgel",
     "srd": false,
     "worshipers": "Practical, honest folk",
-    "symbol": "Circle at the center of a starburst of lines"
+    "symbol": "Circle at the center of a starburst of lines",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "XDMG"
   },
   {
     "name": "Cyric",
@@ -1006,7 +1306,12 @@
     "title": "God of lies",
     "srd": false,
     "worshipers": "",
-    "symbol": "White jawless skull on black or purple sunburst"
+    "symbol": "White jawless skull on black or purple sunburst",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Cyrrollalee",
@@ -1023,7 +1328,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "An open door"
+    "symbol": "An open door",
+    "divine_rank": "Deity",
+    "province": "Hearth, home",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Darahl Tilvenar",
@@ -1040,7 +1350,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Flame between hands"
+    "symbol": "Flame between hands",
+    "divine_rank": "The Seldarine",
+    "province": "Fire, earth, metalwork",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Deep Duerra",
@@ -1057,7 +1372,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Mind flayer skull"
+    "symbol": "Mind flayer skull",
+    "divine_rank": "Deity",
+    "province": "Conquest, psionics",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Deep Sashelas",
@@ -1075,7 +1395,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Dolphin"
+    "symbol": "Dolphin",
+    "divine_rank": "The Seldarine",
+    "province": "Creativity, knowledge, sea",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Demeter",
@@ -1091,7 +1416,12 @@
     "title": "Goddess of agriculture",
     "srd": true,
     "worshipers": "",
-    "symbol": "Mare's head"
+    "symbol": "Mare's head",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Dendar",
@@ -1105,7 +1435,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "VGM"
   },
   {
     "name": "Deneir",
@@ -1122,7 +1457,12 @@
     "title": "God of writing",
     "srd": false,
     "worshipers": "",
-    "symbol": "Lit candle above an open eye"
+    "symbol": "Lit candle above an open eye",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Desirat",
@@ -1139,7 +1479,12 @@
     "title": "the Twilight Phoenix",
     "srd": false,
     "worshipers": "",
-    "symbol": "Burning purple feather"
+    "symbol": "Burning purple feather",
+    "divine_rank": "Lesser Idols",
+    "province": "The Fiend, the Undying",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Diancecht",
@@ -1155,7 +1500,12 @@
     "title": "God of medicine and healing",
     "srd": true,
     "worshipers": "",
-    "symbol": "Crossed oak and mistletoe branches"
+    "symbol": "Crossed oak and mistletoe branches",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Dionysus",
@@ -1171,7 +1521,12 @@
     "title": "God of mirth and wine",
     "srd": true,
     "worshipers": "",
-    "symbol": "Thyrsus (staff tipped with pine cone)"
+    "symbol": "Thyrsus (staff tipped with pine cone)",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Dol Arrah",
@@ -1189,7 +1544,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Rising sun {@i or} red dragon"
+    "symbol": "Rising sun {@i or} red dragon",
+    "divine_rank": "The Sovereign Host",
+    "province": "Honor, sunlight",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "Dol Dorn",
@@ -1205,7 +1565,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Longsword crossed over a shield {@i or} silver dragon"
+    "symbol": "Longsword crossed over a shield {@i or} silver dragon",
+    "divine_rank": "The Sovereign Host",
+    "province": "Strength at arms",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "Dugmaren Brightmantle",
@@ -1221,7 +1586,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Open book"
+    "symbol": "Open book",
+    "divine_rank": "The Mordinsamman",
+    "province": "Discovery",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Dumathoin",
@@ -1238,7 +1608,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Gemstone in a mountain"
+    "symbol": "Gemstone in a mountain",
+    "divine_rank": "The Mordinsamman",
+    "province": "Buried secrets",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Dunatis",
@@ -1254,7 +1629,12 @@
     "title": "God of mountains and peaks",
     "srd": true,
     "worshipers": "",
-    "symbol": "Red sun-capped mountain peak"
+    "symbol": "Red sun-capped mountain peak",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Eadro",
@@ -1271,7 +1651,12 @@
     "title": "Merfolk deity of the sea",
     "srd": false,
     "worshipers": "",
-    "symbol": "Spiral design"
+    "symbol": "Spiral design",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Ehlonna",
@@ -1288,7 +1673,12 @@
     "title": "Goddess of woodlands",
     "srd": false,
     "worshipers": "",
-    "symbol": "Unicorn horn"
+    "symbol": "Unicorn horn",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Eilistraee",
@@ -1306,7 +1696,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Sword-wielding, dancing female drow silhouetted against the full moon"
+    "symbol": "Sword-wielding, dancing female drow silhouetted against the full moon",
+    "divine_rank": "The Dark Seldarine",
+    "province": "Freedom, moonlight, song",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Eldath",
@@ -1324,7 +1719,12 @@
     "title": "Goddess of peace",
     "srd": false,
     "worshipers": "",
-    "symbol": "Waterfall plunging into a still pool"
+    "symbol": "Waterfall plunging into a still pool",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Elebrin Liothiel",
@@ -1341,7 +1741,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Acorn"
+    "symbol": "Acorn",
+    "divine_rank": "The Seldarine",
+    "province": "Abundance, gardens, the harvest",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Ephara",
@@ -1358,7 +1763,12 @@
     "title": "God of the Polis",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MOT"
   },
   {
     "name": "Erathis",
@@ -1375,7 +1785,12 @@
     "title": "the Law Bearer",
     "srd": false,
     "worshipers": "",
-    "symbol": "Double-headed axe inset with a pattern of scales"
+    "symbol": "Double-headed axe inset with a pattern of scales",
+    "divine_rank": "Prime Deities",
+    "province": "Civilization, law, peace",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Erebos",
@@ -1392,7 +1807,12 @@
     "title": "God of the Dead",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MOT"
   },
   {
     "name": "Erevan Ilesere",
@@ -1408,7 +1828,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Asymmetrical starburst"
+    "symbol": "Asymmetrical starburst",
+    "divine_rank": "The Seldarine",
+    "province": "Mischief, change",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Erythnul",
@@ -1424,7 +1849,12 @@
     "title": "God of envy and slaughter",
     "srd": false,
     "worshipers": "",
-    "symbol": "Blood drop"
+    "symbol": "Blood drop",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Ezra",
@@ -1440,7 +1870,12 @@
     "title": "God of the mists",
     "srd": false,
     "worshipers": "",
-    "symbol": "Sprig of belladonna atop a silver kite shield"
+    "symbol": "Sprig of belladonna atop a silver kite shield",
+    "divine_rank": "Unknown",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "VRGR"
   },
   {
     "name": "Fenmarel Mestarine",
@@ -1457,7 +1892,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Two peering elven eyes"
+    "symbol": "Two peering elven eyes",
+    "divine_rank": "The Seldarine",
+    "province": "Solitude, outcasts",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Fharlanghn",
@@ -1474,7 +1914,12 @@
     "title": "God of horizons and travel",
     "srd": false,
     "worshipers": "",
-    "symbol": "Circle crossed by a curved horizon line"
+    "symbol": "Circle crossed by a curved horizon line",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Flandal Steelskin",
@@ -1491,7 +1936,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Flaming hammer"
+    "symbol": "Flaming hammer",
+    "divine_rank": "Deity",
+    "province": "Metalwork",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Forseti",
@@ -1508,7 +1958,12 @@
     "title": "God of justice and law",
     "srd": false,
     "worshipers": "",
-    "symbol": "Head of a bearded man"
+    "symbol": "Head of a bearded man",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Frey",
@@ -1525,7 +1980,12 @@
     "title": "God of fertility and the sun",
     "srd": false,
     "worshipers": "",
-    "symbol": "Ice-blue greatsword"
+    "symbol": "Ice-blue greatsword",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Freya",
@@ -1541,7 +2001,12 @@
     "title": "Goddess of fertility and love",
     "srd": false,
     "worshipers": "",
-    "symbol": "Falcon"
+    "symbol": "Falcon",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Frigga",
@@ -1558,7 +2023,12 @@
     "title": "Goddess of birth and fertility",
     "srd": false,
     "worshipers": "",
-    "symbol": "Cat"
+    "symbol": "Cat",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Gadhelyn",
@@ -1575,7 +2045,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Leaf-shaped arrowhead"
+    "symbol": "Leaf-shaped arrowhead",
+    "divine_rank": "The Seldarine",
+    "province": "Independence, outlawry",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Gaerdal Ironhand",
@@ -1592,7 +2067,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Iron band"
+    "symbol": "Iron band",
+    "divine_rank": "Deity",
+    "province": "Protection",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Garl Glittergold",
@@ -1608,7 +2088,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Gold nugget"
+    "symbol": "Gold nugget",
+    "divine_rank": "Deity",
+    "province": "Primary god of gnomes",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Gelf Darkhearth",
@@ -1624,7 +2109,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Broken anvil"
+    "symbol": "Broken anvil",
+    "divine_rank": "Deity",
+    "province": "Frustration, destruction",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Ghaunadaur",
@@ -1640,7 +2130,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Purple eye with black sclera"
+    "symbol": "Purple eye with black sclera",
+    "divine_rank": "The Dark Seldarine",
+    "province": "Oozes, slimes, outcasts",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Gilean",
@@ -1654,7 +2149,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Open book"
+    "symbol": "Open book",
+    "divine_rank": "Neutral",
+    "province": "Knowledge",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Goibhniu",
@@ -1672,7 +2172,12 @@
     "title": "God of smiths and healing",
     "srd": true,
     "worshipers": "",
-    "symbol": "Giant mallet over sword"
+    "symbol": "Giant mallet over sword",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Gond",
@@ -1689,7 +2194,12 @@
     "title": "God of craft",
     "srd": false,
     "worshipers": "",
-    "symbol": "Toothed cog with four spokes"
+    "symbol": "Toothed cog with four spokes",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Gorm Gulthyn",
@@ -1705,7 +2215,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Bronze half-mask"
+    "symbol": "Bronze half-mask",
+    "divine_rank": "The Mordinsamman",
+    "province": "Vigilance",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Grolantor",
@@ -1721,7 +2236,12 @@
     "title": "Hill giant god of war",
     "srd": false,
     "worshipers": "",
-    "symbol": "Wooden club"
+    "symbol": "Wooden club",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Grumbar",
@@ -1737,7 +2257,12 @@
     "title": "God of earth",
     "srd": false,
     "worshipers": "",
-    "symbol": "Mountain"
+    "symbol": "Mountain",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Gruumsh",
@@ -1751,7 +2276,12 @@
     "title": "He Who Watches",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "VGM"
   },
   {
     "name": "Gwaeron Windstrom",
@@ -1768,7 +2298,12 @@
     "title": "God of tracking",
     "srd": false,
     "worshipers": "",
-    "symbol": "Paw print with a five-pointed star in its center"
+    "symbol": "Paw print with a five-pointed star in its center",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Habbakuk",
@@ -1782,7 +2317,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Blue bird"
+    "symbol": "Blue bird",
+    "divine_rank": "Good",
+    "province": "Animal life, natural balance",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Hades",
@@ -1799,7 +2339,12 @@
     "title": "God of the underworld",
     "srd": true,
     "worshipers": "",
-    "symbol": "Black ram"
+    "symbol": "Black ram",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Haela Brightaxe",
@@ -1815,7 +2360,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Upright sword with blade sheathed in flame"
+    "symbol": "Upright sword with blade sheathed in flame",
+    "divine_rank": "The Mordinsamman",
+    "province": "Combat prowess, luck in battle",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Hanali Celanil",
@@ -1831,7 +2381,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Golden heart"
+    "symbol": "Golden heart",
+    "divine_rank": "The Seldarine",
+    "province": "Love, beauty, the arts",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Hanseath",
@@ -1848,7 +2403,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Beer stein"
+    "symbol": "Beer stein",
+    "divine_rank": "The Mordinsamman",
+    "province": "Festivity, brewing, song",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Hathor",
@@ -1865,7 +2425,12 @@
     "title": "Goddess of love, music, and motherhood",
     "srd": true,
     "worshipers": "",
-    "symbol": "Horned cow's head with lunar disk"
+    "symbol": "Horned cow's head with lunar disk",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Hecate",
@@ -1883,7 +2448,12 @@
     "title": "Goddess of magic and the moon",
     "srd": true,
     "worshipers": "",
-    "symbol": "Setting moon"
+    "symbol": "Setting moon",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Heimdall",
@@ -1900,7 +2470,12 @@
     "title": "God of watchfulness and loyalty",
     "srd": false,
     "worshipers": "",
-    "symbol": "Curling musical horn"
+    "symbol": "Curling musical horn",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Heironeous",
@@ -1916,7 +2491,12 @@
     "title": "God of chivalry and valor",
     "srd": false,
     "worshipers": "",
-    "symbol": "Lightning bolt"
+    "symbol": "Lightning bolt",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Hel",
@@ -1932,7 +2512,12 @@
     "title": "Goddess of the underworld",
     "srd": false,
     "worshipers": "",
-    "symbol": "Woman's face, rotting on one side"
+    "symbol": "Woman's face, rotting on one side",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Heliod",
@@ -1948,7 +2533,12 @@
     "title": "God of the Sun",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MOT"
   },
   {
     "name": "Helm",
@@ -1966,7 +2556,12 @@
     "title": "God of watchfulness",
     "srd": false,
     "worshipers": "",
-    "symbol": "Staring eye on upright left gauntlet"
+    "symbol": "Staring eye on upright left gauntlet",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Hephaestus",
@@ -1983,7 +2578,12 @@
     "title": "God of smithing and craft",
     "srd": true,
     "worshipers": "",
-    "symbol": "Hammer and anvil"
+    "symbol": "Hammer and anvil",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Hera",
@@ -1999,7 +2599,12 @@
     "title": "Goddess of marriage and intrigue",
     "srd": true,
     "worshipers": "",
-    "symbol": "Fan of peacock feathers"
+    "symbol": "Fan of peacock feathers",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Hercules",
@@ -2016,7 +2621,12 @@
     "title": "God of strength and adventure",
     "srd": true,
     "worshipers": "",
-    "symbol": "Lion's head"
+    "symbol": "Lion's head",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Hermes",
@@ -2032,7 +2642,12 @@
     "title": "God of travel and commerce",
     "srd": true,
     "worshipers": "",
-    "symbol": "Caduceus (winged staff and serpents)"
+    "symbol": "Caduceus (winged staff and serpents)",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Hermod",
@@ -2048,7 +2663,12 @@
     "title": "God of luck",
     "srd": false,
     "worshipers": "",
-    "symbol": "Winged scroll"
+    "symbol": "Winged scroll",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Hestia",
@@ -2064,7 +2684,12 @@
     "title": "Goddess of home and family",
     "srd": true,
     "worshipers": "",
-    "symbol": "Hearth"
+    "symbol": "Hearth",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Hextor",
@@ -2080,7 +2705,12 @@
     "title": "God of war and discord",
     "srd": false,
     "worshipers": "",
-    "symbol": "Six arrows facing downward in a fan"
+    "symbol": "Six arrows facing downward in a fan",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Hiddukel",
@@ -2094,7 +2724,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Broken merchant's scales"
+    "symbol": "Broken merchant's scales",
+    "divine_rank": "Evil",
+    "province": "Greed, lies",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Hoar",
@@ -2110,7 +2745,12 @@
     "title": "God of revenge and retribution",
     "srd": false,
     "worshipers": "",
-    "symbol": "A coin with a two-faced head"
+    "symbol": "A coin with a two-faced head",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Hruggek",
@@ -2126,7 +2766,12 @@
     "title": "Bugbear god of violence",
     "srd": false,
     "worshipers": "",
-    "symbol": "Morningstar"
+    "symbol": "Morningstar",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Ilmater",
@@ -2143,7 +2788,12 @@
     "title": "God of endurance",
     "srd": false,
     "worshipers": "",
-    "symbol": "Hands bound at the wrist with red cord"
+    "symbol": "Hands bound at the wrist with red cord",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Ilneval",
@@ -2157,7 +2807,12 @@
     "title": "the War Maker",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "VGM"
   },
   {
     "name": "Imhotep",
@@ -2173,7 +2828,12 @@
     "title": "God of crafts and medicine",
     "srd": true,
     "worshipers": "",
-    "symbol": "Step pyramid"
+    "symbol": "Step pyramid",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Incabulos",
@@ -2189,7 +2849,12 @@
     "title": "God of plague and famine",
     "srd": false,
     "worshipers": "",
-    "symbol": "Reptilian eye with a horizontal diamond"
+    "symbol": "Reptilian eye with a horizontal diamond",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Ioun",
@@ -2206,7 +2871,12 @@
     "title": "the Knowing Mentor",
     "srd": false,
     "worshipers": "",
-    "symbol": "Pair of open eyes crowned with a third open eye"
+    "symbol": "Pair of open eyes crowned with a third open eye",
+    "divine_rank": "Prime Deities",
+    "province": "Knowledge, learning, teaching",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Iroas",
@@ -2222,7 +2892,12 @@
     "title": "God of Victory",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MOT"
   },
   {
     "name": "Isis",
@@ -2240,7 +2915,12 @@
     "title": "Goddess of fertility and magic",
     "srd": true,
     "worshipers": "",
-    "symbol": "Ankh and star"
+    "symbol": "Ankh and star",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Istishia",
@@ -2256,7 +2936,12 @@
     "title": "God of water",
     "srd": false,
     "worshipers": "",
-    "symbol": "Wave"
+    "symbol": "Wave",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Istus",
@@ -2272,7 +2957,12 @@
     "title": "Goddess of fate and destiny",
     "srd": false,
     "worshipers": "",
-    "symbol": "Weaver's spindle with three strands"
+    "symbol": "Weaver's spindle with three strands",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Iuz",
@@ -2288,7 +2978,12 @@
     "title": "God of pain and oppression",
     "srd": false,
     "worshipers": "",
-    "symbol": "Grinning human skull"
+    "symbol": "Grinning human skull",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Jergal",
@@ -2305,7 +3000,12 @@
     "title": "Scribe of the dead",
     "srd": false,
     "worshipers": "",
-    "symbol": "A skull biting a scroll"
+    "symbol": "A skull biting a scroll",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Karametra",
@@ -2322,7 +3022,12 @@
     "title": "God of Harvests",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MOT"
   },
   {
     "name": "Kelemvor",
@@ -2339,7 +3044,12 @@
     "title": "God of the dead",
     "srd": false,
     "worshipers": "",
-    "symbol": "Upright skeletal arm holding balanced scales"
+    "symbol": "Upright skeletal arm holding balanced scales",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Keptolo",
@@ -2356,7 +3066,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Mushroom"
+    "symbol": "Mushroom",
+    "divine_rank": "The Dark Seldarine",
+    "province": "Beauty, hedonism, fertility",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Keranos",
@@ -2373,7 +3088,12 @@
     "title": "God of Storms",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MOT"
   },
   {
     "name": "Kiaransalee",
@@ -2390,7 +3110,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Drow hand wearing many silver rings"
+    "symbol": "Drow hand wearing many silver rings",
+    "divine_rank": "The Dark Seldarine",
+    "province": "Necromancy",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Kiri-Jolith",
@@ -2404,7 +3129,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Bison's horns"
+    "symbol": "Bison's horns",
+    "divine_rank": "Good",
+    "province": "Honor, war",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Kirith Sotheril",
@@ -2421,7 +3151,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Rainbow sphere"
+    "symbol": "Rainbow sphere",
+    "divine_rank": "The Seldarine",
+    "province": "Divination, illusion",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Klothys",
@@ -2438,7 +3173,12 @@
     "title": "God of Destiny",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MOT"
   },
   {
     "name": "Kol Korran",
@@ -2454,7 +3194,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Nine-sided gold coin {@i or} white dragon"
+    "symbol": "Nine-sided gold coin {@i or} white dragon",
+    "divine_rank": "The Sovereign Host",
+    "province": "Trade, travel",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "Kord",
@@ -2471,7 +3216,12 @@
     "title": "the Storm Lord",
     "srd": false,
     "worshipers": "",
-    "symbol": "Four bolts of lightning radiating from the center of a shield"
+    "symbol": "Four bolts of lightning radiating from the center of a shield",
+    "divine_rank": "Prime Deities",
+    "province": "Battle, competition, storms",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Kossuth",
@@ -2487,7 +3237,12 @@
     "title": "God of fire",
     "srd": false,
     "worshipers": "",
-    "symbol": "Flame"
+    "symbol": "Flame",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Kruphix",
@@ -2504,7 +3259,12 @@
     "title": "God of Horizons",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MOT"
   },
   {
     "name": "Kurtulmak",
@@ -2520,7 +3280,12 @@
     "title": "Kobold god of war and mining",
     "srd": false,
     "worshipers": "",
-    "symbol": "Gnome skull"
+    "symbol": "Gnome skull",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Labelas Enoreth",
@@ -2538,7 +3303,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Setting sun"
+    "symbol": "Setting sun",
+    "divine_rank": "The Seldarine",
+    "province": "Time, history, memory",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Laduguer",
@@ -2555,7 +3325,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Broken arrow"
+    "symbol": "Broken arrow",
+    "divine_rank": "Deity",
+    "province": "Labor, slavery",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Laogzed",
@@ -2571,7 +3346,12 @@
     "title": "Troglodyte god of hunger",
     "srd": false,
     "worshipers": "",
-    "symbol": "Image of the lizard/toad god"
+    "symbol": "Image of the lizard/toad god",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Lathander",
@@ -2588,7 +3368,12 @@
     "title": "God of dawn and renewal",
     "srd": false,
     "worshipers": "",
-    "symbol": "Road traveling into a sunrise"
+    "symbol": "Road traveling into a sunrise",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Leira",
@@ -2604,7 +3389,12 @@
     "title": "Goddess of illusion",
     "srd": false,
     "worshipers": "",
-    "symbol": "Point-down triangle containing a swirl of mist"
+    "symbol": "Point-down triangle containing a swirl of mist",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Lliira",
@@ -2620,7 +3410,12 @@
     "title": "Goddess of joy",
     "srd": false,
     "worshipers": "",
-    "symbol": "Triangle of three six-pointed stars"
+    "symbol": "Triangle of three six-pointed stars",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Loki",
@@ -2636,7 +3431,12 @@
     "title": "God of thieves and trickery",
     "srd": false,
     "worshipers": "",
-    "symbol": "Flame"
+    "symbol": "Flame",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Lolth",
@@ -2653,7 +3453,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Spider"
+    "symbol": "Spider",
+    "divine_rank": "The Dark Seldarine",
+    "province": "Primary god of drow, spiders",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Loviatar",
@@ -2669,7 +3474,12 @@
     "title": "Goddess of pain",
     "srd": false,
     "worshipers": "",
-    "symbol": "Nine-tailed barbed scourge"
+    "symbol": "Nine-tailed barbed scourge",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Lugh",
@@ -2686,7 +3496,12 @@
     "title": "God of arts, travel, and commerce",
     "srd": true,
     "worshipers": "",
-    "symbol": "Pair of long hands"
+    "symbol": "Pair of long hands",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Lunitari",
@@ -2700,7 +3515,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Red circle or sphere"
+    "symbol": "Red circle or sphere",
+    "divine_rank": "Neutral",
+    "province": "Neutral magic",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Luthic",
@@ -2714,7 +3534,12 @@
     "title": "the Cave Mother",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "VGM"
   },
   {
     "name": "Maglubiyet",
@@ -2731,7 +3556,12 @@
     "title": "Goblinoid god of war",
     "srd": false,
     "worshipers": "",
-    "symbol": "Bloody axe"
+    "symbol": "Bloody axe",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Majere",
@@ -2745,7 +3575,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Copper spider"
+    "symbol": "Copper spider",
+    "divine_rank": "Good",
+    "province": "Meditation, order",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Malar",
@@ -2761,7 +3596,12 @@
     "title": "God of the hunt",
     "srd": false,
     "worshipers": "",
-    "symbol": "Clawed paw"
+    "symbol": "Clawed paw",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Malyk",
@@ -2778,7 +3618,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "A flame in a tear or a multihued vortex"
+    "symbol": "A flame in a tear or a multihued vortex",
+    "divine_rank": "The Dark Seldarine",
+    "province": "Chaos, rebellion, wild magic",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Manannan mac Lir",
@@ -2795,7 +3640,12 @@
     "title": "God of oceans and sea creatures",
     "srd": true,
     "worshipers": "",
-    "symbol": "Wave of white water on green"
+    "symbol": "Wave of white water on green",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Marthammor Duin",
@@ -2812,7 +3662,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Upright mace in front of a tall boot"
+    "symbol": "Upright mace in front of a tall boot",
+    "divine_rank": "The Mordinsamman",
+    "province": "Explorers, wanderers, the lost",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Mask",
@@ -2828,7 +3683,12 @@
     "title": "God of thieves",
     "srd": false,
     "worshipers": "",
-    "symbol": "Black mask"
+    "symbol": "Black mask",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Math Mathonwy",
@@ -2845,7 +3705,12 @@
     "title": "God of magic",
     "srd": true,
     "worshipers": "",
-    "symbol": "Staff"
+    "symbol": "Staff",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Melira Taralen",
@@ -2863,7 +3728,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Lute"
+    "symbol": "Lute",
+    "divine_rank": "The Seldarine",
+    "province": "Poetry, songs",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Melora",
@@ -2881,7 +3751,12 @@
     "title": "the Wild Mother",
     "srd": false,
     "worshipers": "",
-    "symbol": "Wreath of grass and grain affixed to a crook"
+    "symbol": "Wreath of grass and grain affixed to a crook",
+    "divine_rank": "Prime Deities",
+    "province": "Seas, wilderness",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Merrshaulk",
@@ -2895,7 +3770,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "VGM"
   },
   {
     "name": "Mielikki",
@@ -2911,7 +3791,12 @@
     "title": "Goddess of forests",
     "srd": false,
     "worshipers": "",
-    "symbol": "Unicorn's head"
+    "symbol": "Unicorn's head",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Milil",
@@ -2927,7 +3812,12 @@
     "title": "God of poetry and song",
     "srd": false,
     "worshipers": "",
-    "symbol": "Five-stringed harp made of leaves"
+    "symbol": "Five-stringed harp made of leaves",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Mishakal",
@@ -2941,7 +3831,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Blue infinity sign"
+    "symbol": "Blue infinity sign",
+    "divine_rank": "Good",
+    "province": "Healing",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Mogis",
@@ -2957,7 +3852,12 @@
     "title": "God of Slaughter",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MOT"
   },
   {
     "name": "Moradin",
@@ -2974,7 +3874,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Hammer and anvil"
+    "symbol": "Hammer and anvil",
+    "divine_rank": "The Mordinsamman",
+    "province": "Primary deity of dwarves",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Morgion",
@@ -2988,7 +3893,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Hood with two red eyes"
+    "symbol": "Hood with two red eyes",
+    "divine_rank": "Evil",
+    "province": "Disease, secrecy",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Morrigan",
@@ -3004,7 +3914,12 @@
     "title": "Goddess of battle",
     "srd": true,
     "worshipers": "",
-    "symbol": "Two crossed spears"
+    "symbol": "Two crossed spears",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Muamman Duathal",
@@ -3020,7 +3935,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Mace held in gauntlets"
+    "symbol": "Mace held in gauntlets",
+    "divine_rank": "The Mordinsamman",
+    "province": "Storms, travel",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Mya",
@@ -3037,7 +3957,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "A faceless mother figure"
+    "symbol": "A faceless mother figure",
+    "divine_rank": "The Mordinsamman",
+    "province": "Clan, family, wisdom",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Myrkul",
@@ -3053,7 +3978,12 @@
     "title": "God of death",
     "srd": false,
     "worshipers": "",
-    "symbol": "White human skull"
+    "symbol": "White human skull",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Mystra",
@@ -3070,7 +4000,12 @@
     "title": "Goddess of magic",
     "srd": false,
     "worshipers": "",
-    "symbol": "Circle of seven stars, nine stars encircling a flowing red mist, or a single star"
+    "symbol": "Circle of seven stars, nine stars encircling a flowing red mist, or a single star",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Mythrien Sarath",
@@ -3088,7 +4023,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Row of three intertwined rings"
+    "symbol": "Row of three intertwined rings",
+    "divine_rank": "The Seldarine",
+    "province": "Abjuration, mythals",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Naralis Analor",
@@ -3105,7 +4045,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "White dove"
+    "symbol": "White dove",
+    "divine_rank": "The Seldarine",
+    "province": "Healing, suffering, death",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Naviask",
@@ -3122,7 +4067,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Wreath of flowers shaped into demon horns"
+    "symbol": "Wreath of flowers shaped into demon horns",
+    "divine_rank": "Lesser Idols",
+    "province": "The Archfey",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Nebelun",
@@ -3140,7 +4090,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Bellows and lizard tail"
+    "symbol": "Bellows and lizard tail",
+    "divine_rank": "Deity",
+    "province": "Invention, luck",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Nephthys",
@@ -3156,7 +4111,12 @@
     "title": "Goddess of death and grief",
     "srd": true,
     "worshipers": "",
-    "symbol": "Horns around a lunar disk"
+    "symbol": "Horns around a lunar disk",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Nerull",
@@ -3172,7 +4132,12 @@
     "title": "God of death",
     "srd": false,
     "worshipers": "",
-    "symbol": "Skull with either a sickle or a scythe"
+    "symbol": "Skull with either a sickle or a scythe",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Nike",
@@ -3188,7 +4153,12 @@
     "title": "Goddess of victory",
     "srd": true,
     "worshipers": "",
-    "symbol": "Winged woman"
+    "symbol": "Winged woman",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Njord",
@@ -3205,7 +4175,12 @@
     "title": "God of sea and wind",
     "srd": false,
     "worshipers": "",
-    "symbol": "Gold coin"
+    "symbol": "Gold coin",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Nuada",
@@ -3222,7 +4197,12 @@
     "title": "God of war and warriors",
     "srd": true,
     "worshipers": "",
-    "symbol": "Silver hand on black background"
+    "symbol": "Silver hand on black background",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Nuitari",
@@ -3236,7 +4216,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Black circle or sphere"
+    "symbol": "Black circle or sphere",
+    "divine_rank": "Evil",
+    "province": "Evil magic",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Nylea",
@@ -3252,7 +4237,12 @@
     "title": "God of the Hunt",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MOT"
   },
   {
     "name": "Obad-Hai",
@@ -3268,7 +4258,12 @@
     "title": "god of nature",
     "srd": false,
     "worshipers": "",
-    "symbol": "Oak leaf and acorn"
+    "symbol": "Oak leaf and acorn",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Odin",
@@ -3285,7 +4280,12 @@
     "title": "God of knowledge and war",
     "srd": false,
     "worshipers": "",
-    "symbol": "Watching blue eye"
+    "symbol": "Watching blue eye",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Odur",
@@ -3301,7 +4301,12 @@
     "title": "God of light and the sun",
     "srd": false,
     "worshipers": "",
-    "symbol": "Solar disk"
+    "symbol": "Solar disk",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Oghma",
@@ -3317,7 +4322,12 @@
     "title": "God of knowledge",
     "srd": false,
     "worshipers": "",
-    "symbol": "Blank scroll"
+    "symbol": "Blank scroll",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Olidammara",
@@ -3333,7 +4343,12 @@
     "title": "God of revelry",
     "srd": false,
     "worshipers": "",
-    "symbol": "Laughing mask"
+    "symbol": "Laughing mask",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Olladra",
@@ -3350,7 +4365,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Domino {@i or} black dragon"
+    "symbol": "Domino {@i or} black dragon",
+    "divine_rank": "The Sovereign Host",
+    "province": "Good fortune",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "Onatar",
@@ -3367,7 +4387,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Crossed hammer and tongs {@i or} brass dragon"
+    "symbol": "Crossed hammer and tongs {@i or} brass dragon",
+    "divine_rank": "The Sovereign Host",
+    "province": "Artifice, the forge",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "Osiris",
@@ -3385,7 +4410,12 @@
     "title": "God of nature and the underworld",
     "srd": true,
     "worshipers": "",
-    "symbol": "Crook and flail"
+    "symbol": "Crook and flail",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Paladine",
@@ -3399,7 +4429,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Silver triangle"
+    "symbol": "Silver triangle",
+    "divine_rank": "Good",
+    "province": "Good dragons, guardians, rulers",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Pan",
@@ -3415,7 +4450,12 @@
     "title": "God of nature",
     "srd": true,
     "worshipers": "",
-    "symbol": "Syrinx (pan pipes)"
+    "symbol": "Syrinx (pan pipes)",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Pelor",
@@ -3433,7 +4473,12 @@
     "title": "the Dawn Father",
     "srd": false,
     "worshipers": "",
-    "symbol": "Bright, eight-pointed star"
+    "symbol": "Bright, eight-pointed star",
+    "divine_rank": "Prime Deities",
+    "province": "Healing, sun",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Pharika",
@@ -3451,7 +4496,12 @@
     "title": "God of Affliction",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MOT"
   },
   {
     "name": "Phenax",
@@ -3467,7 +4517,12 @@
     "title": "God of Deception",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MOT"
   },
   {
     "name": "Pholtus",
@@ -3484,7 +4539,12 @@
     "title": "God of light and law",
     "srd": false,
     "worshipers": "",
-    "symbol": "Silver sun or full moon partially eclipsed by a smaller crescent moon"
+    "symbol": "Silver sun or full moon partially eclipsed by a smaller crescent moon",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Poseidon",
@@ -3500,7 +4560,12 @@
     "title": "God of the sea and earthquakes",
     "srd": true,
     "worshipers": "",
-    "symbol": "Trident"
+    "symbol": "Trident",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Procan",
@@ -3516,7 +4581,12 @@
     "title": "Sailor of Sea and Sky",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "GoS"
   },
   {
     "name": "Ptah",
@@ -3532,7 +4602,12 @@
     "title": "God of crafts, knowledge, and secrets",
     "srd": true,
     "worshipers": "",
-    "symbol": "Bull"
+    "symbol": "Bull",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Purphoros",
@@ -3549,7 +4624,12 @@
     "title": "God of the Forge",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MOT"
   },
   {
     "name": "Quajath",
@@ -3566,7 +4646,12 @@
     "title": "the Undermaw",
     "srd": false,
     "worshipers": "",
-    "symbol": "Ring of teeth"
+    "symbol": "Ring of teeth",
+    "divine_rank": "Lesser Idols",
+    "province": "The Fiend, the Great Old One",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Raei",
@@ -3583,7 +4668,12 @@
     "title": "the Everlight",
     "srd": false,
     "worshipers": "",
-    "symbol": "Humanoid, feminine phoenix"
+    "symbol": "Humanoid, feminine phoenix",
+    "divine_rank": "Prime Deities",
+    "province": "Atonement, compassion",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Ralishaz",
@@ -3599,7 +4689,12 @@
     "title": "God of ill luck and insanity",
     "srd": false,
     "worshipers": "",
-    "symbol": "Three bone fate-casting sticks"
+    "symbol": "Three bone fate-casting sticks",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Rao",
@@ -3616,7 +4711,12 @@
     "title": "God of peace and reason",
     "srd": false,
     "worshipers": "",
-    "symbol": "White heart"
+    "symbol": "White heart",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Raven Queen",
@@ -3633,7 +4733,12 @@
     "title": "Goddess of death",
     "srd": false,
     "worshipers": "",
-    "symbol": "Raven's head, in profile, facing left"
+    "symbol": "Raven's head, in profile, facing left",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DMG"
   },
   {
     "name": "Re-Horakhty",
@@ -3650,7 +4755,12 @@
     "title": "God of the sun, ruler of the gods",
     "srd": true,
     "worshipers": "",
-    "symbol": "Solar disk encircled by serpent"
+    "symbol": "Solar disk encircled by serpent",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Rellavar Danuvien",
@@ -3666,7 +4776,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Spear between two circles"
+    "symbol": "Spear between two circles",
+    "divine_rank": "The Seldarine",
+    "province": "Winter, harsh weather",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Reorx",
@@ -3680,7 +4795,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Forging hammer"
+    "symbol": "Forging hammer",
+    "divine_rank": "Neutral",
+    "province": "Craft",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Rill Cleverthrush",
@@ -3696,7 +4816,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Interlocking gears"
+    "symbol": "Interlocking gears",
+    "divine_rank": "Deity",
+    "province": "Law, thought",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Rillifane Rallathil",
@@ -3712,7 +4837,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Oak"
+    "symbol": "Oak",
+    "divine_rank": "The Seldarine",
+    "province": "Nature, beasts, the seasons",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Roknar",
@@ -3728,7 +4858,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Hands filled with coins"
+    "symbol": "Hands filled with coins",
+    "divine_rank": "The Mordinsamman",
+    "province": "Lies, intrigue",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Sargonnas",
@@ -3742,7 +4877,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Stylized red condor"
+    "symbol": "Stylized red condor",
+    "divine_rank": "Evil",
+    "province": "Fire, vengeance",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Sarula Iliene",
@@ -3759,7 +4899,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Three lines symbolizing waves"
+    "symbol": "Three lines symbolizing waves",
+    "divine_rank": "The Seldarine",
+    "province": "Lakes, streams",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Savras",
@@ -3776,7 +4921,12 @@
     "title": "God of divination and fate",
     "srd": false,
     "worshipers": "",
-    "symbol": "Crystal ball containing many kinds of eyes"
+    "symbol": "Crystal ball containing many kinds of eyes",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Segojan Earthcaller",
@@ -3793,7 +4943,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Glowing gemstone"
+    "symbol": "Glowing gemstone",
+    "divine_rank": "Deity",
+    "province": "Earth, the dead",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Sehanine",
@@ -3811,7 +4966,12 @@
     "title": "the Moon Weaver",
     "srd": false,
     "worshipers": "",
-    "symbol": "Crescent moon turned upward, strung like a bow"
+    "symbol": "Crescent moon turned upward, strung like a bow",
+    "divine_rank": "Prime Deities",
+    "province": "Illusion, moonlight, night",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Sehanine Moonbow",
@@ -3829,7 +4989,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Full moon under a moonbow"
+    "symbol": "Full moon under a moonbow",
+    "divine_rank": "The Seldarine",
+    "province": "Dreams, death, travel",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Sekolah",
@@ -3846,7 +5011,12 @@
     "title": "Sahuagin god of the hunt",
     "srd": false,
     "worshipers": "",
-    "symbol": "Shark"
+    "symbol": "Shark",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Selvetarm",
@@ -3862,7 +5032,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Spider over crossed sword and mace"
+    "symbol": "Spider over crossed sword and mace",
+    "divine_rank": "The Dark Seldarine",
+    "province": "Warriors, slaughter",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Selûne",
@@ -3880,7 +5055,12 @@
     "title": "Goddess of the moon",
     "srd": false,
     "worshipers": "",
-    "symbol": "Pair of eyes surrounded by seven stars"
+    "symbol": "Pair of eyes surrounded by seven stars",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Semuanya",
@@ -3896,7 +5076,12 @@
     "title": "Lizardfolk deity of survival",
     "srd": false,
     "worshipers": "",
-    "symbol": "Egg"
+    "symbol": "Egg",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Set",
@@ -3914,7 +5099,12 @@
     "title": "God of darkness and desert storms",
     "srd": true,
     "worshipers": "",
-    "symbol": "Coiled cobra"
+    "symbol": "Coiled cobra",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Shar",
@@ -3931,7 +5121,12 @@
     "title": "Goddess of darkness and loss",
     "srd": false,
     "worshipers": "",
-    "symbol": "Black disk encircled with a purple border"
+    "symbol": "Black disk encircled with a purple border",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Shargaas",
@@ -3945,7 +5140,12 @@
     "title": "the Night Lord",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "VGM"
   },
   {
     "name": "Sharindlar",
@@ -3961,7 +5161,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Burning needle"
+    "symbol": "Burning needle",
+    "divine_rank": "The Mordinsamman",
+    "province": "Healing, love",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Shaundakul",
@@ -3975,7 +5180,12 @@
     "title": "God of travel",
     "srd": false,
     "worshipers": "Guides, explorers, Rangers, travelers",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "FRHoF"
   },
   {
     "name": "Sheela Peryroyl",
@@ -3992,7 +5202,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "A flower"
+    "symbol": "A flower",
+    "divine_rank": "Deity",
+    "province": "Agriculture, nature, weather",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Shevarash",
@@ -4008,7 +5223,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Broken arrow over a tear"
+    "symbol": "Broken arrow over a tear",
+    "divine_rank": "The Seldarine",
+    "province": "Vengeance, loss, hatred",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Sheyanna Flaxenstrand",
@@ -4024,7 +5244,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Two silver goblets"
+    "symbol": "Two silver goblets",
+    "divine_rank": "Deity",
+    "province": "love, beauty, passion",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Shinare",
@@ -4038,7 +5263,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Griffon's wing"
+    "symbol": "Griffon's wing",
+    "divine_rank": "Neutral",
+    "province": "Trade, wealth",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Sif",
@@ -4054,7 +5284,12 @@
     "title": "Goddess of war",
     "srd": false,
     "worshipers": "",
-    "symbol": "Upraised sword"
+    "symbol": "Upraised sword",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Silvanus",
@@ -4070,7 +5305,12 @@
     "title": "God of wild nature",
     "srd": false,
     "worshipers": "",
-    "symbol": "Oak leaf"
+    "symbol": "Oak leaf",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Sirrion",
@@ -4084,7 +5324,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Multicolored fire"
+    "symbol": "Multicolored fire",
+    "divine_rank": "Neutral",
+    "province": "Change, fire",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Skadi",
@@ -4100,7 +5345,12 @@
     "title": "God of earth and mountains",
     "srd": false,
     "worshipers": "",
-    "symbol": "Mountain peak"
+    "symbol": "Mountain peak",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Skerrit",
@@ -4116,7 +5366,12 @@
     "title": "Centaur and satyr god of nature",
     "srd": false,
     "worshipers": "",
-    "symbol": "Oak growing from acorn"
+    "symbol": "Oak growing from acorn",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Skoraeus Stonebones",
@@ -4132,7 +5387,12 @@
     "title": "God of stone giants and art",
     "srd": false,
     "worshipers": "",
-    "symbol": "Stalactite"
+    "symbol": "Stalactite",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Sobek",
@@ -4149,7 +5409,12 @@
     "title": "God of water and crocodiles",
     "srd": true,
     "worshipers": "",
-    "symbol": "Crocodile head with horns and plumes"
+    "symbol": "Crocodile head with horns and plumes",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Solinari",
@@ -4163,7 +5428,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "White circle or sphere"
+    "symbol": "White circle or sphere",
+    "divine_rank": "Good",
+    "province": "Good magic",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Solonor Thelandira",
@@ -4180,7 +5450,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Silver arrow with green fletching"
+    "symbol": "Silver arrow with green fletching",
+    "divine_rank": "The Seldarine",
+    "province": "Archery, hunting, survival",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Sseth",
@@ -4194,7 +5469,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "VGM"
   },
   {
     "name": "St. Cuthbert",
@@ -4210,7 +5490,12 @@
     "title": "God of common sense and zeal",
     "srd": false,
     "worshipers": "",
-    "symbol": "Circle at the center of a starburst of lines"
+    "symbol": "Circle at the center of a starburst of lines",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Sune",
@@ -4227,7 +5512,12 @@
     "title": "Goddess of love and beauty",
     "srd": false,
     "worshipers": "",
-    "symbol": "Face of a beautiful red-haired woman"
+    "symbol": "Face of a beautiful red-haired woman",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Surtur",
@@ -4244,7 +5534,12 @@
     "title": "God of fire giants and craft",
     "srd": false,
     "worshipers": "",
-    "symbol": "Flaming sword"
+    "symbol": "Flaming sword",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Syrul",
@@ -4258,7 +5553,12 @@
     "title": "Oathbreaker",
     "srd": false,
     "worshipers": "Liars, charlatans, traitors",
-    "symbol": "Forked tongue"
+    "symbol": "Forked tongue",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "XDMG"
   },
   {
     "name": "Takhisis",
@@ -4272,7 +5572,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Spiral of five dragon claws"
+    "symbol": "Spiral of five dragon claws",
+    "divine_rank": "Evil",
+    "province": "Evil dragons, hatred, night",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Talona",
@@ -4288,7 +5593,12 @@
     "title": "Goddess of poison and disease",
     "srd": false,
     "worshipers": "",
-    "symbol": "Three teardrops in a triangle"
+    "symbol": "Three teardrops in a triangle",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Talos",
@@ -4304,7 +5614,12 @@
     "title": "God of storms",
     "srd": false,
     "worshipers": "",
-    "symbol": "Three lightning bolts radiating from a point"
+    "symbol": "Three lightning bolts radiating from a point",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Tarsellis Meunniduin",
@@ -4321,7 +5636,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Mountain with a river"
+    "symbol": "Mountain with a river",
+    "divine_rank": "The Seldarine",
+    "province": "Mountains, rivers, wild places",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Tempus",
@@ -4337,7 +5657,12 @@
     "title": "God of war",
     "srd": false,
     "worshipers": "",
-    "symbol": "Upright flaming sword"
+    "symbol": "Upright flaming sword",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Tethrin Veraldé",
@@ -4353,7 +5678,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Crossed swords beneath a quarter moon and above a full moon"
+    "symbol": "Crossed swords beneath a quarter moon and above a full moon",
+    "divine_rank": "The Seldarine",
+    "province": "Battle, sword fighting",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Thard Harr",
@@ -4369,7 +5699,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Two clawed gauntlets"
+    "symbol": "Two clawed gauntlets",
+    "divine_rank": "The Mordinsamman",
+    "province": "Wilderness, hunting",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Tharizdun",
@@ -4387,7 +5722,12 @@
     "title": "the Chained Oblivion",
     "srd": false,
     "worshipers": "",
-    "symbol": "Crooked, seven-pointed star made of chains"
+    "symbol": "Crooked, seven-pointed star made of chains",
+    "divine_rank": "Betrayer Gods",
+    "province": "Darkness, destruction",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Tharmekhûl",
@@ -4404,7 +5744,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Fiery axe"
+    "symbol": "Fiery axe",
+    "divine_rank": "The Mordinsamman",
+    "province": "Fire, forges, molten rock",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Thassa",
@@ -4421,7 +5766,12 @@
     "title": "God of the Sea",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MOT"
   },
   {
     "name": "Thautam",
@@ -4438,7 +5788,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Blindfold"
+    "symbol": "Blindfold",
+    "divine_rank": "The Mordinsamman",
+    "province": "Mysteries, darkness, lost treasures",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "The Blood of Vol",
@@ -4455,7 +5810,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Red teardrop gem"
+    "symbol": "Red teardrop gem",
+    "divine_rank": "Other Faiths of Eberron",
+    "province": "Immortality",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "The Daghdha",
@@ -4472,7 +5832,12 @@
     "title": "God of weather and crops",
     "srd": true,
     "worshipers": "",
-    "symbol": "Bubbling cauldron or shield"
+    "symbol": "Bubbling cauldron or shield",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "The Devourer",
@@ -4488,7 +5853,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Bundle of five sharpened bones {@i or} dragon turtle"
+    "symbol": "Bundle of five sharpened bones {@i or} dragon turtle",
+    "divine_rank": "The Dark Six",
+    "province": "Nature's wrath",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "The Fury",
@@ -4504,7 +5874,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Winged wyrm with woman's head and arms"
+    "symbol": "Winged wyrm with woman's head and arms",
+    "divine_rank": "The Dark Six",
+    "province": "Passion, revenge",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "The Hag Mother",
@@ -4521,7 +5896,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Single red horn"
+    "symbol": "Single red horn",
+    "divine_rank": "Lesser Idols",
+    "province": "The Fiend",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "The Keeper",
@@ -4537,7 +5917,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Dragonshard in the shape of a fang {@i or} dracolich"
+    "symbol": "Dragonshard in the shape of a fang {@i or} dracolich",
+    "divine_rank": "The Dark Six",
+    "province": "Death, greed",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "The Luxon",
@@ -4554,7 +5939,12 @@
     "title": "the First Radiance",
     "srd": false,
     "worshipers": "",
-    "symbol": "Hollow dodecahedron"
+    "symbol": "Hollow dodecahedron",
+    "divine_rank": "Lesser Idols",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "The Mockery",
@@ -4571,7 +5961,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Five blood-spattered blades {@i or} flayed dragon"
+    "symbol": "Five blood-spattered blades {@i or} flayed dragon",
+    "divine_rank": "The Dark Six",
+    "province": "Betrayal, bloodshed",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "The Path of Light",
@@ -4588,7 +5983,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Brilliant crystal"
+    "symbol": "Brilliant crystal",
+    "divine_rank": "Other Faiths of Eberron",
+    "province": "Light, self-improvement",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "The Raven Queen",
@@ -4605,7 +6005,12 @@
     "title": "Matron of Death",
     "srd": false,
     "worshipers": "",
-    "symbol": "White, humanoid mask framed in black feathers"
+    "symbol": "White, humanoid mask framed in black feathers",
+    "divine_rank": "Prime Deities",
+    "province": "Death, fate, winter",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "The Red Knight",
@@ -4621,7 +6026,12 @@
     "title": "Goddess of strategy",
     "srd": false,
     "worshipers": "",
-    "symbol": "Red knight lanceboard piece with stars for eyes"
+    "symbol": "Red knight lanceboard piece with stars for eyes",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "The Shadow",
@@ -4637,7 +6047,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Obsidian tower"
+    "symbol": "Obsidian tower",
+    "divine_rank": "The Dark Six",
+    "province": "Ambition, dark magic",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "The Silver Flame",
@@ -4655,7 +6070,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Flame drawn on silver or molded from silver"
+    "symbol": "Flame drawn on silver or molded from silver",
+    "divine_rank": "Other Faiths of Eberron",
+    "province": "Good, protection",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "The Spirits of the Past",
@@ -4672,7 +6092,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Varies"
+    "symbol": "Varies",
+    "divine_rank": "Other Faiths of Eberron",
+    "province": "Elven ancestors",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "The Traveler",
@@ -4690,7 +6115,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Four crossed, rune-inscribed bones"
+    "symbol": "Four crossed, rune-inscribed bones",
+    "divine_rank": "The Dark Six",
+    "province": "Change, chaos",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "The Undying Court",
@@ -4708,7 +6138,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Golden mask"
+    "symbol": "Golden mask",
+    "divine_rank": "Other Faiths of Eberron",
+    "province": "Elven ancestors",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "ERLW"
   },
   {
     "name": "Thor",
@@ -4725,7 +6160,12 @@
     "title": "God of storms and thunder",
     "srd": false,
     "worshipers": "",
-    "symbol": "Hammer"
+    "symbol": "Hammer",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Thoth",
@@ -4741,7 +6181,12 @@
     "title": "God of knowledge and wisdom",
     "srd": true,
     "worshipers": "",
-    "symbol": "Ibis"
+    "symbol": "Ibis",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Thrym",
@@ -4757,7 +6202,12 @@
     "title": "God of frost giants and strength",
     "srd": false,
     "worshipers": "",
-    "symbol": "White double-bladed axe"
+    "symbol": "White double-bladed axe",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Tiamat",
@@ -4775,7 +6225,12 @@
     "title": "the Scaled Tyrant",
     "srd": false,
     "worshipers": "",
-    "symbol": "Taloned dragon claw"
+    "symbol": "Taloned dragon claw",
+    "divine_rank": "Betrayer Gods",
+    "province": "Dragon god of evil",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Torm",
@@ -4791,7 +6246,12 @@
     "title": "God of courage and self-sacrifice",
     "srd": false,
     "worshipers": "",
-    "symbol": "White right gauntlet"
+    "symbol": "White right gauntlet",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Torog",
@@ -4808,7 +6268,12 @@
     "title": "the Crawling King",
     "srd": false,
     "worshipers": "",
-    "symbol": "Three pale arms clawing from a dark void"
+    "symbol": "Three pale arms clawing from a dark void",
+    "divine_rank": "Betrayer Gods",
+    "province": "Enslavement, torture",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Trithereon",
@@ -4824,7 +6289,12 @@
     "title": "God of liberty and retribution",
     "srd": false,
     "worshipers": "",
-    "symbol": "Triskelion"
+    "symbol": "Triskelion",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Tyche",
@@ -4840,7 +6310,12 @@
     "title": "Goddess of good fortune",
     "srd": true,
     "worshipers": "",
-    "symbol": "Red pentagram"
+    "symbol": "Red pentagram",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Tymora",
@@ -4856,7 +6331,12 @@
     "title": "Goddess of good fortune",
     "srd": false,
     "worshipers": "",
-    "symbol": "Face-up coin"
+    "symbol": "Face-up coin",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Tyr",
@@ -4873,7 +6353,12 @@
     "title": "God of justice",
     "srd": false,
     "worshipers": "",
-    "symbol": "Balanced scales resting on a warhammer"
+    "symbol": "Balanced scales resting on a warhammer",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Uk'otoa",
@@ -4890,7 +6375,12 @@
     "title": "the Leviathan Lord",
     "srd": false,
     "worshipers": "",
-    "symbol": "Yellow, slitted eye"
+    "symbol": "Yellow, slitted eye",
+    "divine_rank": "Lesser Idols",
+    "province": "The Great Old One, the Hexblade",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Ulaa",
@@ -4906,7 +6396,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "A miner's pick"
+    "symbol": "A miner's pick",
+    "divine_rank": "The Mordinsamman",
+    "province": "Mining, quarrying",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Uller",
@@ -4922,7 +6417,12 @@
     "title": "God of hunting and winter",
     "srd": false,
     "worshipers": "",
-    "symbol": "Longbow"
+    "symbol": "Longbow",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Umberlee",
@@ -4938,7 +6438,12 @@
     "title": "Goddess of the sea",
     "srd": false,
     "worshipers": "",
-    "symbol": "Wave curling left and right"
+    "symbol": "Wave curling left and right",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Urdlen",
@@ -4955,7 +6460,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "White-clawed mole emerging from ground"
+    "symbol": "White-clawed mole emerging from ground",
+    "divine_rank": "Deity",
+    "province": "Greed, murder",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Urogalan",
@@ -4973,7 +6483,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Silhouette of a dog's head"
+    "symbol": "Silhouette of a dog's head",
+    "divine_rank": "Deity",
+    "province": "Earth, death",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Valkauna",
@@ -4990,7 +6505,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "A silver ewer"
+    "symbol": "A silver ewer",
+    "divine_rank": "The Mordinsamman",
+    "province": "Oaths, birth, aging, death",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Valkur",
@@ -5007,7 +6527,12 @@
     "title": "Northlander god of sailors",
     "srd": false,
     "worshipers": "",
-    "symbol": "A cloud and three lightning bolts"
+    "symbol": "A cloud and three lightning bolts",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Vandria Gilmadrith",
@@ -5024,7 +6549,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Weeping eye"
+    "symbol": "Weeping eye",
+    "divine_rank": "The Seldarine",
+    "province": "War, grief, justice, vigilance",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Vecna",
@@ -5043,7 +6573,12 @@
     "title": "the Whispered One",
     "srd": false,
     "worshipers": "",
-    "symbol": "Desiccated hand with an eye in the palm"
+    "symbol": "Desiccated hand with an eye in the palm",
+    "divine_rank": "Betrayer Gods",
+    "province": "Necromancy, secrets",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Vergadain",
@@ -5059,7 +6594,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Gold coin bearing a dwarf's face"
+    "symbol": "Gold coin bearing a dwarf's face",
+    "divine_rank": "The Mordinsamman",
+    "province": "Luck, wealth",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Vesh",
@@ -5076,7 +6616,12 @@
     "title": "the Bloody Siren",
     "srd": false,
     "worshipers": "",
-    "symbol": "Crimson ring hanging from a chain"
+    "symbol": "Crimson ring hanging from a chain",
+    "divine_rank": "Lesser Idols",
+    "province": "The Archfey, the Undying",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Vhaeraun",
@@ -5093,7 +6638,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Black mask with blue glass lenses inset over eyes"
+    "symbol": "Black mask with blue glass lenses inset over eyes",
+    "divine_rank": "The Dark Seldarine",
+    "province": "Arrogance, thieves",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Waukeen",
@@ -5110,7 +6660,12 @@
     "title": "Goddess of trade",
     "srd": false,
     "worshipers": "",
-    "symbol": "Upright coin with Waukeen's profile facing left"
+    "symbol": "Upright coin with Waukeen's profile facing left",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "SCAG"
   },
   {
     "name": "Wee Jas",
@@ -5130,7 +6685,12 @@
     "title": "Goddess of magic and death",
     "srd": false,
     "worshipers": "",
-    "symbol": "Red skull in front of fireball"
+    "symbol": "Red skull in front of fireball",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Xalicas",
@@ -5147,7 +6707,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Single blackened wing"
+    "symbol": "Single blackened wing",
+    "divine_rank": "Lesser Idols",
+    "province": "The Archfey, the Celestial",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Ye'Cind",
@@ -5164,7 +6729,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Recorder"
+    "symbol": "Recorder",
+    "divine_rank": "The Seldarine",
+    "province": "Music, enchantment",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Yondalla",
@@ -5181,7 +6751,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Cornucopia"
+    "symbol": "Cornucopia",
+    "divine_rank": "Deity",
+    "province": "Primary goddess of halflings",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Yurtrus",
@@ -5195,7 +6770,12 @@
     "title": "the White Hand",
     "srd": false,
     "worshipers": "",
-    "symbol": ""
+    "symbol": "",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "VGM"
   },
   {
     "name": "Zandilar",
@@ -5211,7 +6791,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Lips"
+    "symbol": "Lips",
+    "divine_rank": "The Seldarine",
+    "province": "Romance, lust, dance",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Zeboim",
@@ -5225,7 +6810,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Turtle shell"
+    "symbol": "Turtle shell",
+    "divine_rank": "Evil",
+    "province": "Seas, storms",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   },
   {
     "name": "Zehir",
@@ -5242,7 +6832,12 @@
     "title": "the Cloaked Serpent",
     "srd": false,
     "worshipers": "",
-    "symbol": "Coiled serpent"
+    "symbol": "Coiled serpent",
+    "divine_rank": "Betrayer Gods",
+    "province": "Assassins, poison, snakes",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "EGW"
   },
   {
     "name": "Zeus",
@@ -5258,7 +6853,12 @@
     "title": "God of the sky, ruler of the gods",
     "srd": true,
     "worshipers": "",
-    "symbol": "Fist full of lightning bolts"
+    "symbol": "Fist full of lightning bolts",
+    "divine_rank": "Deity",
+    "province": "Unknown",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "PHB"
   },
   {
     "name": "Zinzerena",
@@ -5274,7 +6874,12 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Shortsword draped with cloth"
+    "symbol": "Shortsword draped with cloth",
+    "divine_rank": "The Dark Seldarine",
+    "province": "Assassination, illusion, lies",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "MTF"
   },
   {
     "name": "Zivilyn",
@@ -5288,6 +6893,11 @@
     "title": "",
     "srd": false,
     "worshipers": "",
-    "symbol": "Great green or gold tree"
+    "symbol": "Great green or gold tree",
+    "divine_rank": "Neutral",
+    "province": "Wisdom",
+    "home_plane": [],
+    "avatar": "",
+    "book_source": "DSotDQ"
   }
 ]
