@@ -1,0 +1,182 @@
+2026-07-07T07:02:07Z INF Starting tunnel tunnelID=39e86caa-f0f1-4d6e-a869-a6b5c86d2a2f
+2026-07-07T07:02:07Z INF Version 2026.6.1 (Checksum f8ccb82672736916c68f6c1c766bf3c3a9f57cb5807666c9a4760f8f74824cf8)
+2026-07-07T07:02:07Z INF GOOS: linux, GOVersion: go1.26.4-X:nodwarf5, GoArch: amd64
+2026-07-07T07:02:07Z INF Settings: map[cred-file:/home/george/.cloudflared/39e86caa-f0f1-4d6e-a869-a6b5c86d2a2f.json credentials-file:/home/george/.cloudflared/39e86caa-f0f1-4d6e-a869-a6b5c86d2a2f.json]
+2026-07-07T07:02:07Z INF cloudflared will not automatically update if installed by a package manager.
+2026-07-07T07:02:07Z INF Generated Connector ID: e7efa177-913c-4814-a057-3c404286208b
+2026-07-07T07:02:07Z INF Initial protocol quic
+2026-07-07T07:02:07Z INF ICMP proxy will use 192.168.1.203 as source for IPv4
+2026-07-07T07:02:07Z INF ICMP proxy will use 2a02:2f0e:3d14:3900:7237:e8b9:7b7e:a478 in zone enp7s0 as source for IPv6
+2026-07-07T07:02:07Z INF ICMP proxy will use 192.168.1.203 as source for IPv4
+2026-07-07T07:02:07Z INF ICMP proxy will use 2a02:2f0e:3d14:3900:7237:e8b9:7b7e:a478 in zone enp7s0 as source for IPv6
+2026-07-07T07:02:07Z INF Starting metrics server on 127.0.0.1:20241/metrics
+2026-07-07T07:02:07Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=0 event=0 ip=2606:4700:a8::4
+2026-07-07T07:02:07Z INF +-------------------------------------------------------------------------------------+
+2026-07-07T07:02:07Z INF |                               CONNECTIVITY PRE-CHECKS                               |
+2026-07-07T07:02:07Z INF +-------------------------------------------------------------------------------------+
+2026-07-07T07:02:07Z INF |  COMPONENT         TARGET                     STATUS  DETAILS                       |
+2026-07-07T07:02:07Z INF |  DNS Resolution    region1.v2.argotunnel.com  PASS    DNS Resolved successfully     |
+2026-07-07T07:02:07Z INF |  DNS Resolution    region2.v2.argotunnel.com  PASS    DNS Resolved successfully     |
+2026-07-07T07:02:07Z INF |  UDP Connectivity  region1.v2.argotunnel.com  PASS    QUIC connection successful    |
+2026-07-07T07:02:07Z INF |  UDP Connectivity  region2.v2.argotunnel.com  PASS    QUIC connection successful    |
+2026-07-07T07:02:07Z INF |  TCP Connectivity  region1.v2.argotunnel.com  PASS    HTTP/2 connection successful  |
+2026-07-07T07:02:07Z INF |  TCP Connectivity  region2.v2.argotunnel.com  PASS    HTTP/2 connection successful  |
+2026-07-07T07:02:07Z INF |  Cloudflare API    api.cloudflare.com:443     PASS    API is reachable              |
+2026-07-07T07:02:07Z INF |                                                                                     |
+2026-07-07T07:02:07Z INF |  SUMMARY: Environment is healthy. cloudflared will use 'quic' as primary protocol.  |
+2026-07-07T07:02:07Z INF +-------------------------------------------------------------------------------------+
+2026-07-07T07:02:07Z INF precheck component="DNS Resolution" details="DNS Resolved successfully" run_id=8aa5265b-92f5-462b-8376-ca05f119d0b5 status=pass target=region1.v2.argotunnel.com
+2026-07-07T07:02:07Z INF precheck component="DNS Resolution" details="DNS Resolved successfully" run_id=8aa5265b-92f5-462b-8376-ca05f119d0b5 status=pass target=region2.v2.argotunnel.com
+2026-07-07T07:02:07Z INF precheck component="UDP Connectivity" details="QUIC connection successful" run_id=8aa5265b-92f5-462b-8376-ca05f119d0b5 status=pass target=region1.v2.argotunnel.com
+2026-07-07T07:02:07Z INF precheck component="UDP Connectivity" details="QUIC connection successful" run_id=8aa5265b-92f5-462b-8376-ca05f119d0b5 status=pass target=region2.v2.argotunnel.com
+2026-07-07T07:02:07Z INF precheck component="TCP Connectivity" details="HTTP/2 connection successful" run_id=8aa5265b-92f5-462b-8376-ca05f119d0b5 status=pass target=region1.v2.argotunnel.com
+2026-07-07T07:02:07Z INF precheck component="TCP Connectivity" details="HTTP/2 connection successful" run_id=8aa5265b-92f5-462b-8376-ca05f119d0b5 status=pass target=region2.v2.argotunnel.com
+2026-07-07T07:02:07Z INF precheck component="Cloudflare API" details="API is reachable" run_id=8aa5265b-92f5-462b-8376-ca05f119d0b5 status=pass target=api.cloudflare.com:443
+2026-07-07T07:02:07Z INF precheck complete hard_fail=false run_id=8aa5265b-92f5-462b-8376-ca05f119d0b5 suggested_protocol=quic
+2026-07-07T07:02:07Z INF Registered tunnel connection connIndex=0 connection=78bf9041-7354-4f3c-b72a-f281464ccb62 event=0 ip=2606:4700:a8::4 location=fra16 protocol=quic
+2026-07-07T07:02:07Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=1 event=0 ip=2606:4700:a0::4
+2026-07-07T07:02:08Z INF Registered tunnel connection connIndex=1 connection=d3e515fd-2209-4aec-a482-9b922ffd993d event=0 ip=2606:4700:a0::4 location=otp02 protocol=quic
+2026-07-07T07:02:08Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=2 event=0 ip=2606:4700:a8::5
+2026-07-07T07:02:09Z INF Registered tunnel connection connIndex=2 connection=bb6c556e-eac5-4736-8da1-5dfaed22afd4 event=0 ip=2606:4700:a8::5 location=fra16 protocol=quic
+2026-07-07T07:02:09Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=3 event=0 ip=2606:4700:a0::3
+2026-07-07T07:02:10Z INF Registered tunnel connection connIndex=3 connection=c6329768-48cc-4746-a623-974c600c5672 event=0 ip=2606:4700:a0::3 location=otp01 protocol=quic
+2026-07-07T07:26:07Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 event=1 ingressRule=0 originService=http://localhost:8501
+2026-07-07T07:26:07Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 dest=https://geotools.me/robots.txt event=0 ip=2606:4700:a0::3 type=http
+2026-07-07T07:26:07Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 event=1 ingressRule=0 originService=http://localhost:8501
+2026-07-07T07:26:07Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 dest=https://geotools.me/sitemap.xml event=0 ip=2606:4700:a0::3 type=http
+2026-07-07T09:40:50Z ERR failed to run the datagram handler error="write udp [::]:44792->[2606:4700:a8::4]:7844: sendmsg: network is unreachable" connIndex=0 event=0 ip=2606:4700:a8::4
+2026-07-07T09:40:50Z ERR failed to accept incoming stream requests error="failed to accept QUIC stream: write udp [::]:39933->[2606:4700:a0::4]:7844: sendmsg: network is unreachable" connIndex=1 event=0 ip=2606:4700:a0::4
+2026-07-07T09:40:50Z ERR failed to run the datagram handler error="write udp [::]:55918->[2606:4700:a8::5]:7844: sendmsg: network is unreachable" connIndex=2 event=0 ip=2606:4700:a8::5
+2026-07-07T09:40:50Z ERR failed to accept incoming stream requests error="failed to accept QUIC stream: write udp [::]:48253->[2606:4700:a0::3]:7844: sendmsg: network is unreachable" connIndex=3 event=0 ip=2606:4700:a0::3
+2026-07-07T09:40:50Z ERR failed to accept incoming stream requests error="failed to accept QUIC stream: write udp [::]:44792->[2606:4700:a8::4]:7844: sendmsg: network is unreachable" connIndex=0 event=0 ip=2606:4700:a8::4
+2026-07-07T09:40:50Z ERR failed to run the datagram handler error="write udp [::]:48253->[2606:4700:a0::3]:7844: sendmsg: network is unreachable" connIndex=3 event=0 ip=2606:4700:a0::3
+2026-07-07T09:40:50Z ERR failed to accept incoming stream requests error="failed to accept QUIC stream: write udp [::]:55918->[2606:4700:a8::5]:7844: sendmsg: network is unreachable" connIndex=2 event=0 ip=2606:4700:a8::5
+2026-07-07T09:40:50Z ERR failed to serve tunnel connection error="accept stream listener encountered a failure while serving" connIndex=3 event=0 ip=2606:4700:a0::3
+2026-07-07T09:40:50Z ERR Serve tunnel error error="accept stream listener encountered a failure while serving" connIndex=3 event=0 ip=2606:4700:a0::3
+2026-07-07T09:40:50Z ERR failed to run the datagram handler error="write udp [::]:39933->[2606:4700:a0::4]:7844: sendmsg: network is unreachable" connIndex=1 event=0 ip=2606:4700:a0::4
+2026-07-07T09:40:50Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=2606:4700:a0::3
+2026-07-07T09:40:50Z ERR failed to serve tunnel connection error="datagram manager encountered a failure while serving" connIndex=0 event=0 ip=2606:4700:a8::4
+2026-07-07T09:40:50Z ERR Serve tunnel error error="datagram manager encountered a failure while serving" connIndex=0 event=0 ip=2606:4700:a8::4
+2026-07-07T09:40:50Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=2606:4700:a8::4
+2026-07-07T09:40:50Z ERR failed to serve tunnel connection error="accept stream listener encountered a failure while serving" connIndex=1 event=0 ip=2606:4700:a0::4
+2026-07-07T09:40:50Z ERR failed to serve tunnel connection error="datagram manager encountered a failure while serving" connIndex=2 event=0 ip=2606:4700:a8::5
+2026-07-07T09:40:50Z ERR Serve tunnel error error="accept stream listener encountered a failure while serving" connIndex=1 event=0 ip=2606:4700:a0::4
+2026-07-07T09:40:50Z ERR Serve tunnel error error="datagram manager encountered a failure while serving" connIndex=2 event=0 ip=2606:4700:a8::5
+2026-07-07T09:40:50Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=2606:4700:a0::4
+2026-07-07T09:40:50Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=2606:4700:a8::5
+2026-07-07T09:40:51Z ERR Failed to refresh protocol error="lookup protocol-v2.argotunnel.com on 127.0.0.53:53: server misbehaving"
+2026-07-07T09:40:51Z ERR Connection terminated error="accept stream listener encountered a failure while serving" connIndex=3
+2026-07-07T09:40:51Z ERR Failed to refresh protocol error="lookup protocol-v2.argotunnel.com on 127.0.0.53:53: server misbehaving"
+2026-07-07T09:40:51Z ERR Connection terminated error="accept stream listener encountered a failure while serving" connIndex=1
+2026-07-07T09:40:51Z ERR Failed to refresh protocol error="lookup protocol-v2.argotunnel.com on 127.0.0.53:53: server misbehaving"
+2026-07-07T09:40:51Z ERR Connection terminated error="datagram manager encountered a failure while serving" connIndex=2
+2026-07-07T09:40:52Z ERR Failed to refresh protocol error="lookup protocol-v2.argotunnel.com on 127.0.0.53:53: server misbehaving"
+2026-07-07T09:40:52Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=0 event=0 ip=2606:4700:a8::4
+2026-07-07T09:40:52Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:44792->[2606:4700:a8::4]:7844: sendmsg: network is unreachable" connIndex=0 event=0 ip=2606:4700:a8::4
+2026-07-07T09:40:52Z INF Retrying connection in up to 4s connIndex=0 event=0 ip=2606:4700:a8::4
+2026-07-07T09:40:54Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=0 event=0 ip=198.41.200.63
+2026-07-07T09:40:54Z INF Registered tunnel connection connIndex=0 connection=c7c064b8-4073-44d3-b805-fc22532e4235 event=0 ip=198.41.200.63 location=fra06 protocol=quic
+2026-07-07T09:41:03Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=2 event=0 ip=2606:4700:a8::5
+2026-07-07T09:41:03Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=3 event=0 ip=2606:4700:a0::3
+2026-07-07T09:41:03Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=1 event=0 ip=2606:4700:a0::4
+2026-07-07T09:41:03Z INF Registered tunnel connection connIndex=2 connection=62291c60-81c2-4bb0-9594-4f4e2ea682c1 event=0 ip=2606:4700:a8::5 location=fra16 protocol=quic
+2026-07-07T09:41:03Z INF Registered tunnel connection connIndex=3 connection=c45e3d7c-1903-4f80-bdff-2811dd5caf81 event=0 ip=2606:4700:a0::3 location=otp01 protocol=quic
+2026-07-07T09:41:04Z INF Registered tunnel connection connIndex=1 connection=4c3836dd-ce55-45c7-810b-862b968a1430 event=0 ip=2606:4700:a0::4 location=otp02 protocol=quic
+2026-07-07T10:34:50Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 event=1 ingressRule=0 originService=http://localhost:8501
+2026-07-07T10:34:50Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 dest=https://geotools.me/robots.txt event=0 ip=2606:4700:a0::3 type=http
+2026-07-07T10:34:50Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 event=1 ingressRule=0 originService=http://localhost:8501
+2026-07-07T10:34:50Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 dest=https://geotools.me/sitemap.xml event=0 ip=2606:4700:a0::3 type=http
+2026-07-07T11:26:21Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=1 event=1 ingressRule=0 originService=http://localhost:8501
+2026-07-07T11:26:21Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=1 dest=http://geotools.me/ event=0 ip=2606:4700:a0::4 type=http
+2026-07-07T12:33:06Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 event=1 ingressRule=0 originService=http://localhost:8501
+2026-07-07T12:33:06Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 dest=http://geotools.me/ event=0 ip=2606:4700:a0::3 type=http
+2026-07-07T12:33:14Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 event=1 ingressRule=0 originService=http://localhost:8501
+2026-07-07T12:33:14Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 dest=http://geotools.me/favicon.ico event=0 ip=2606:4700:a0::3 type=http
+2026-07-07T12:33:15Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 event=1 ingressRule=0 originService=http://localhost:8501
+2026-07-07T12:33:15Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 dest=http://geotools.me/sitemap.xml event=0 ip=2606:4700:a0::3 type=http
+2026-07-07T12:33:15Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 event=1 ingressRule=0 originService=http://localhost:8501
+2026-07-07T12:33:15Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 dest=http://geotools.me/robots.txt event=0 ip=2606:4700:a0::3 type=http
+2026-07-07T12:34:47Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=2 event=1 ingressRule=0 originService=http://localhost:8501
+2026-07-07T12:34:47Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=2 dest=https://geotools.me/robots.txt event=0 ip=2606:4700:a8::5 type=http
+2026-07-07T12:40:15Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 event=1 ingressRule=0 originService=http://localhost:8501
+2026-07-07T12:40:15Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 dest=https://geotools.me/sitemap.xml event=0 ip=2606:4700:a0::3 type=http
+2026-07-07T13:01:00Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=1 event=1 ingressRule=0 originService=http://localhost:8501
+2026-07-07T13:01:00Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=1 dest=http://geotools.me/ event=0 ip=2606:4700:a0::4 type=http
+2026-07-07T13:01:00Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=1 event=1 ingressRule=0 originService=http://localhost:8501
+2026-07-07T13:01:00Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=1 dest=http://geotools.me/robots.txt event=0 ip=2606:4700:a0::4 type=http
+2026-07-07T13:01:01Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=1 event=1 ingressRule=0 originService=http://localhost:8501
+2026-07-07T13:01:01Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=1 dest=http://geotools.me/ event=0 ip=2606:4700:a0::4 type=http
+2026-07-07T13:01:01Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=1 event=1 ingressRule=0 originService=http://localhost:8501
+2026-07-07T13:01:01Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=1 dest=http://geotools.me/robots.txt event=0 ip=2606:4700:a0::4 type=http
+2026-07-07T15:51:17Z ERR failed to run the datagram handler error="write udp [::]:48253->[2606:4700:a0::3]:7844: sendmsg: network is unreachable" connIndex=3 event=0 ip=2606:4700:a0::3
+2026-07-07T15:51:17Z ERR failed to run the datagram handler error="write udp [::]:44792->198.41.200.63:7844: sendmsg: network is unreachable" connIndex=0 event=0 ip=198.41.200.63
+2026-07-07T15:51:17Z ERR failed to accept incoming stream requests error="failed to accept QUIC stream: write udp [::]:55918->[2606:4700:a8::5]:7844: sendmsg: network is unreachable" connIndex=2 event=0 ip=2606:4700:a8::5
+2026-07-07T15:51:17Z ERR failed to run the datagram handler error="write udp [::]:55918->[2606:4700:a8::5]:7844: sendmsg: network is unreachable" connIndex=2 event=0 ip=2606:4700:a8::5
+2026-07-07T15:51:17Z ERR failed to run the datagram handler error="write udp [::]:39933->[2606:4700:a0::4]:7844: sendmsg: network is unreachable" connIndex=1 event=0 ip=2606:4700:a0::4
+2026-07-07T15:51:17Z ERR failed to accept incoming stream requests error="failed to accept QUIC stream: write udp [::]:44792->198.41.200.63:7844: sendmsg: network is unreachable" connIndex=0 event=0 ip=198.41.200.63
+2026-07-07T15:51:17Z ERR failed to accept incoming stream requests error="failed to accept QUIC stream: write udp [::]:39933->[2606:4700:a0::4]:7844: sendmsg: network is unreachable" connIndex=1 event=0 ip=2606:4700:a0::4
+2026-07-07T15:51:17Z ERR failed to serve tunnel connection error="accept stream listener encountered a failure while serving" connIndex=2 event=0 ip=2606:4700:a8::5
+2026-07-07T15:51:17Z ERR Serve tunnel error error="accept stream listener encountered a failure while serving" connIndex=2 event=0 ip=2606:4700:a8::5
+2026-07-07T15:51:17Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=2606:4700:a8::5
+2026-07-07T15:51:17Z ERR failed to serve tunnel connection error="datagram manager encountered a failure while serving" connIndex=1 event=0 ip=2606:4700:a0::4
+2026-07-07T15:51:17Z ERR Serve tunnel error error="datagram manager encountered a failure while serving" connIndex=1 event=0 ip=2606:4700:a0::4
+2026-07-07T15:51:17Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=2606:4700:a0::4
+2026-07-07T15:51:17Z ERR failed to accept incoming stream requests error="failed to accept QUIC stream: write udp [::]:48253->[2606:4700:a0::3]:7844: sendmsg: network is unreachable" connIndex=3 event=0 ip=2606:4700:a0::3
+2026-07-07T15:51:17Z ERR failed to serve tunnel connection error="datagram manager encountered a failure while serving" connIndex=3 event=0 ip=2606:4700:a0::3
+2026-07-07T15:51:17Z ERR Serve tunnel error error="datagram manager encountered a failure while serving" connIndex=3 event=0 ip=2606:4700:a0::3
+2026-07-07T15:51:17Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=2606:4700:a0::3
+2026-07-07T15:51:17Z ERR failed to serve tunnel connection error="datagram manager encountered a failure while serving" connIndex=0 event=0 ip=198.41.200.63
+2026-07-07T15:51:17Z ERR Serve tunnel error error="datagram manager encountered a failure while serving" connIndex=0 event=0 ip=198.41.200.63
+2026-07-07T15:51:17Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.63
+2026-07-07T15:51:18Z ERR Failed to refresh protocol error="lookup protocol-v2.argotunnel.com on 127.0.0.53:53: server misbehaving"
+2026-07-07T15:51:18Z ERR Connection terminated error="accept stream listener encountered a failure while serving" connIndex=2
+2026-07-07T15:51:18Z ERR Failed to refresh protocol error="lookup protocol-v2.argotunnel.com on 127.0.0.53:53: server misbehaving"
+2026-07-07T15:51:18Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=0 event=0 ip=198.41.200.63
+2026-07-07T15:51:18Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:44792->198.41.200.63:7844: sendmsg: network is unreachable" connIndex=0 event=0 ip=198.41.200.63
+2026-07-07T15:51:18Z INF Retrying connection in up to 4s connIndex=0 event=0 ip=198.41.200.63
+2026-07-07T15:51:18Z ERR Failed to refresh protocol error="lookup protocol-v2.argotunnel.com on 127.0.0.53:53: server misbehaving"
+2026-07-07T15:51:18Z ERR Connection terminated error="datagram manager encountered a failure while serving" connIndex=1
+2026-07-07T15:51:19Z ERR Failed to refresh protocol error="lookup protocol-v2.argotunnel.com on 127.0.0.53:53: server misbehaving"
+2026-07-07T15:51:19Z ERR Connection terminated error="datagram manager encountered a failure while serving" connIndex=3
+2026-07-07T15:51:21Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=0 event=0 ip=2606:4700:a8::4
+2026-07-07T15:51:21Z ERR Failed to dial a quic connection error="failed to dial to edge with quic: write udp [::]:44792->[2606:4700:a8::4]:7844: sendmsg: network is unreachable" connIndex=0 event=0 ip=2606:4700:a8::4
+2026-07-07T15:51:21Z INF Retrying connection in up to 8s connIndex=0 event=0 ip=2606:4700:a8::4
+2026-07-07T15:51:23Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=0 event=0 ip=198.41.200.233
+2026-07-07T15:51:24Z INF Registered tunnel connection connIndex=0 connection=09982a81-7503-49da-8f69-0402f4556e32 event=0 ip=198.41.200.233 location=fra20 protocol=quic
+2026-07-07T15:51:34Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=3 event=0 ip=2606:4700:a0::3
+2026-07-07T15:51:34Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=1 event=0 ip=2606:4700:a0::4
+2026-07-07T15:51:34Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(65074) CurveP256] connIndex=2 event=0 ip=2606:4700:a8::5
+2026-07-07T15:51:34Z INF Registered tunnel connection connIndex=3 connection=01811da2-7b8d-47a7-9688-630fa7427c59 event=0 ip=2606:4700:a0::3 location=otp01 protocol=quic
+2026-07-07T15:51:34Z INF Registered tunnel connection connIndex=2 connection=45b9e44f-9cf1-46d5-b616-eb654c30acf3 event=0 ip=2606:4700:a8::5 location=fra16 protocol=quic
+2026-07-07T15:51:34Z INF Registered tunnel connection connIndex=1 connection=c0ecee6a-b98a-45a6-a0d2-be923a6bb70a event=0 ip=2606:4700:a0::4 location=otp02 protocol=quic
+2026-07-07T16:33:29Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=2 event=1 ingressRule=0 originService=http://localhost:8501
+2026-07-07T16:33:29Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=2 dest=https://geotools.me/robots.txt event=0 ip=2606:4700:a8::5 type=http
+2026-07-07T17:23:03Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 event=1 ingressRule=0 originService=http://localhost:8501
+2026-07-07T17:23:03Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=3 dest=https://geotools.me/sitemap.xml event=0 ip=2606:4700:a0::3 type=http
+2026-07-07T17:36:37Z ERR  error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=2 event=1 ingressRule=0 originService=http://localhost:8501
+2026-07-07T17:36:37Z ERR Request failed error="Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared: dial tcp [::1]:8501: connect: connection refused" connIndex=2 dest=https://geotools.me/robots.txt event=0 ip=2606:4700:a8::5 type=http
+2026-07-07T18:11:54Z INF Initiating graceful shutdown due to signal terminated ...
+2026-07-07T18:11:54Z ERR failed to run the datagram handler error="context canceled" connIndex=3 event=0 ip=2606:4700:a0::3
+2026-07-07T18:11:54Z ERR failed to serve tunnel connection error="accept stream listener encountered a failure while serving" connIndex=3 event=0 ip=2606:4700:a0::3
+2026-07-07T18:11:54Z ERR Serve tunnel error error="accept stream listener encountered a failure while serving" connIndex=3 event=0 ip=2606:4700:a0::3
+2026-07-07T18:11:54Z INF Retrying connection in up to 1s connIndex=3 event=0 ip=2606:4700:a0::3
+2026-07-07T18:11:54Z ERR Connection terminated connIndex=3
+2026-07-07T18:11:54Z ERR failed to run the datagram handler error="context canceled" connIndex=1 event=0 ip=2606:4700:a0::4
+2026-07-07T18:11:54Z ERR failed to serve tunnel connection error="accept stream listener encountered a failure while serving" connIndex=1 event=0 ip=2606:4700:a0::4
+2026-07-07T18:11:54Z ERR Serve tunnel error error="accept stream listener encountered a failure while serving" connIndex=1 event=0 ip=2606:4700:a0::4
+2026-07-07T18:11:54Z INF Retrying connection in up to 1s connIndex=1 event=0 ip=2606:4700:a0::4
+2026-07-07T18:11:54Z ERR Connection terminated connIndex=1
+2026-07-07T18:11:54Z ERR failed to run the datagram handler error="context canceled" connIndex=0 event=0 ip=198.41.200.233
+2026-07-07T18:11:54Z ERR failed to serve tunnel connection error="accept stream listener encountered a failure while serving" connIndex=0 event=0 ip=198.41.200.233
+2026-07-07T18:11:54Z ERR Serve tunnel error error="accept stream listener encountered a failure while serving" connIndex=0 event=0 ip=198.41.200.233
+2026-07-07T18:11:54Z INF Retrying connection in up to 1s connIndex=0 event=0 ip=198.41.200.233
+2026-07-07T18:11:54Z ERR Connection terminated connIndex=0
+2026-07-07T18:11:54Z ERR failed to run the datagram handler error="Application error 0x0 (remote)" connIndex=2 event=0 ip=2606:4700:a8::5
+2026-07-07T18:11:54Z ERR failed to serve tunnel connection error="accept stream listener encountered a failure while serving" connIndex=2 event=0 ip=2606:4700:a8::5
+2026-07-07T18:11:54Z ERR Serve tunnel error error="accept stream listener encountered a failure while serving" connIndex=2 event=0 ip=2606:4700:a8::5
+2026-07-07T18:11:54Z INF Retrying connection in up to 1s connIndex=2 event=0 ip=2606:4700:a8::5
+2026-07-07T18:11:54Z ERR Connection terminated connIndex=2
+2026-07-07T18:11:54Z ERR no more connections active and exiting
+2026-07-07T18:11:54Z INF Tunnel server stopped
+2026-07-07T18:11:54Z ERR icmp router terminated error="context canceled"
+2026-07-07T18:11:54Z INF Metrics server stopped
